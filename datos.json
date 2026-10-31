@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-30T22:31:05.411Z",
+  "generado": "2026-10-31T13:13:51.036Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1725,33 +1725,33 @@
       },
       {
         "rank": 13,
-        "jugador": "Erick Farfán",
+        "jugador": "Alex Schultes",
         "pts": 145
       },
       {
         "rank": 14,
+        "jugador": "Erick Farfán",
+        "pts": 145
+      },
+      {
+        "rank": 15,
         "jugador": "Jorge Aguirre",
         "pts": 115
       },
       {
-        "rank": 15,
+        "rank": 16,
         "jugador": "Andrés Ramírez",
         "pts": 105
       },
       {
-        "rank": 16,
+        "rank": 17,
         "jugador": "Oscar Donoso",
         "pts": 100
       },
       {
-        "rank": 17,
+        "rank": 18,
         "jugador": "Marco Camargo",
         "pts": 100
-      },
-      {
-        "rank": 18,
-        "jugador": "Alex Schultes",
-        "pts": 95
       },
       {
         "rank": 19,
@@ -1810,446 +1810,441 @@
       },
       {
         "rank": 30,
-        "jugador": "Alex Schultez",
-        "pts": 50
-      },
-      {
-        "rank": 31,
         "jugador": "Francisca Araus",
         "pts": 50
       },
       {
-        "rank": 32,
+        "rank": 31,
         "jugador": "Mateo De Solminihac",
         "pts": 50
       },
       {
-        "rank": 33,
+        "rank": 32,
         "jugador": "Agustin Pavez",
         "pts": 50
       },
       {
-        "rank": 34,
+        "rank": 33,
         "jugador": "Remy Marambio",
         "pts": 50
       },
       {
-        "rank": 35,
+        "rank": 34,
         "jugador": "Maycol Bravo",
         "pts": 50
       },
       {
-        "rank": 36,
+        "rank": 35,
         "jugador": "Matías Tófalos",
         "pts": 35
       },
       {
-        "rank": 37,
+        "rank": 36,
         "jugador": "Diego Pradenas",
         "pts": 35
       },
       {
-        "rank": 38,
+        "rank": 37,
         "jugador": "Alejandro Cuevas",
         "pts": 35
       },
       {
-        "rank": 39,
+        "rank": 38,
         "jugador": "Maximiliano Aguilera",
         "pts": 35
       },
       {
-        "rank": 40,
+        "rank": 39,
         "jugador": "Bruno Palma",
         "pts": 35
       },
       {
-        "rank": 41,
+        "rank": 40,
         "jugador": "Juan Carlos Bodoque",
         "pts": 35
       },
       {
-        "rank": 42,
+        "rank": 41,
         "jugador": "Emilio Gonzalez",
         "pts": 35
       },
       {
-        "rank": 43,
+        "rank": 42,
         "jugador": "Claudio Morales",
         "pts": 35
       },
       {
-        "rank": 44,
+        "rank": 43,
         "jugador": "Emilio Noguera",
         "pts": 35
       },
       {
-        "rank": 45,
+        "rank": 44,
         "jugador": "Carlos Retamal",
         "pts": 35
       },
       {
-        "rank": 46,
+        "rank": 45,
         "jugador": "Diego Vegas",
         "pts": 35
       },
       {
-        "rank": 47,
+        "rank": 46,
         "jugador": "Jonathan Herrera",
         "pts": 25
       },
       {
-        "rank": 48,
+        "rank": 47,
         "jugador": "Jesus Rodriguez",
         "pts": 25
       },
       {
-        "rank": 49,
+        "rank": 48,
         "jugador": "Joaquín Saco",
         "pts": 25
       },
       {
-        "rank": 50,
+        "rank": 49,
         "jugador": "Alejandro de la Fuente",
         "pts": 25
       },
       {
-        "rank": 51,
+        "rank": 50,
         "jugador": "Andrés Cantuarias",
         "pts": 25
       },
       {
-        "rank": 52,
+        "rank": 51,
         "jugador": "Sebastián Sánchez",
         "pts": 25
       },
       {
-        "rank": 53,
+        "rank": 52,
         "jugador": "Nicolas Rademacher",
         "pts": 25
       },
       {
-        "rank": 54,
+        "rank": 53,
         "jugador": "Javiera Ibañez",
         "pts": 25
       },
       {
-        "rank": 55,
+        "rank": 54,
         "jugador": "Alex Inzunza",
         "pts": 25
       },
       {
-        "rank": 56,
+        "rank": 55,
         "jugador": "Andrew Starr",
         "pts": 25
       },
       {
-        "rank": 57,
+        "rank": 56,
         "jugador": "Jukin",
         "pts": 25
       },
       {
-        "rank": 58,
+        "rank": 57,
         "jugador": "Francisco Otarola",
         "pts": 25
       },
       {
-        "rank": 59,
+        "rank": 58,
         "jugador": "Miguel Ángel Nuñez",
         "pts": 25
       },
       {
-        "rank": 60,
+        "rank": 59,
         "jugador": "Nicolás Rosas",
         "pts": 25
       },
       {
-        "rank": 61,
+        "rank": 60,
         "jugador": "Diego Parra",
         "pts": 15
       },
       {
-        "rank": 62,
+        "rank": 61,
         "jugador": "Octavio Silva",
         "pts": 15
       },
       {
-        "rank": 63,
+        "rank": 62,
         "jugador": "Francisco Colipi",
         "pts": 15
       },
       {
-        "rank": 64,
+        "rank": 63,
         "jugador": "Cristóbal Casassus",
         "pts": 15
       },
       {
-        "rank": 65,
+        "rank": 64,
         "jugador": "Sebastián Pacheco",
         "pts": 15
       },
       {
-        "rank": 66,
+        "rank": 65,
         "jugador": "Peter Salinas",
         "pts": 15
       },
       {
-        "rank": 67,
+        "rank": 66,
         "jugador": "Guido Bascur",
         "pts": 15
       },
       {
-        "rank": 68,
+        "rank": 67,
         "jugador": "Mario Barrios",
         "pts": 15
       },
       {
-        "rank": 69,
+        "rank": 68,
         "jugador": "Vicente Aguilera",
         "pts": 15
       },
       {
-        "rank": 70,
+        "rank": 69,
         "jugador": "Panchitow",
         "pts": 15
       },
       {
-        "rank": 71,
+        "rank": 70,
         "jugador": "Pedro Solano",
         "pts": 15
       },
       {
-        "rank": 72,
+        "rank": 71,
         "jugador": "Alfonso Aguilar",
         "pts": 15
       },
       {
-        "rank": 73,
+        "rank": 72,
         "jugador": "Claudio Celis",
         "pts": 15
       },
       {
-        "rank": 74,
+        "rank": 73,
         "jugador": "Annie Vergara",
         "pts": 0
       },
       {
-        "rank": 75,
+        "rank": 74,
         "jugador": "Nicolás Saavedra",
         "pts": 0
       },
       {
-        "rank": 76,
+        "rank": 75,
         "jugador": "Ignacio Rojas",
         "pts": 0
       },
       {
-        "rank": 77,
+        "rank": 76,
         "jugador": "Alejandra Suárez",
         "pts": 0
       },
       {
-        "rank": 78,
+        "rank": 77,
         "jugador": "Simon Saldivia",
         "pts": 0
       },
       {
-        "rank": 79,
+        "rank": 78,
         "jugador": "Ignacio Ramirez",
         "pts": 0
       },
       {
-        "rank": 80,
+        "rank": 79,
         "jugador": "Rodrigo Miranda",
         "pts": 0
       },
       {
-        "rank": 81,
+        "rank": 80,
         "jugador": "Nicolás Acuña",
         "pts": 0
       },
       {
-        "rank": 82,
+        "rank": 81,
         "jugador": "Fernando Yañez",
         "pts": 0
       },
       {
-        "rank": 83,
+        "rank": 82,
         "jugador": "Christopher Cortez",
         "pts": 0
       },
       {
-        "rank": 84,
+        "rank": 83,
         "jugador": "Cristóbal Treupil",
         "pts": 0
       },
       {
-        "rank": 85,
+        "rank": 84,
         "jugador": "Javier Gonzalez",
         "pts": 0
       },
       {
-        "rank": 86,
+        "rank": 85,
         "jugador": "Pedro Vargas",
         "pts": 0
       },
       {
-        "rank": 87,
+        "rank": 86,
         "jugador": "Ignacio Herrera",
         "pts": 0
       },
       {
-        "rank": 88,
+        "rank": 87,
         "jugador": "Tokmy",
         "pts": 0
       },
       {
-        "rank": 89,
+        "rank": 88,
         "jugador": "Kyzo",
         "pts": 0
       },
       {
-        "rank": 90,
+        "rank": 89,
         "jugador": "Cris",
         "pts": 0
       },
       {
-        "rank": 91,
+        "rank": 90,
         "jugador": "Nico",
         "pts": 0
       },
       {
-        "rank": 92,
+        "rank": 91,
         "jugador": "Matias Mocanu",
         "pts": 0
       },
       {
-        "rank": 93,
+        "rank": 92,
         "jugador": "Benjamín Opazo",
         "pts": 0
       },
       {
-        "rank": 94,
+        "rank": 93,
         "jugador": "Juan Francisco Guzman",
         "pts": 0
       },
       {
-        "rank": 95,
+        "rank": 94,
         "jugador": "Reptinoide",
         "pts": 0
       },
       {
-        "rank": 96,
+        "rank": 95,
         "jugador": "John Chaves",
         "pts": 0
       },
       {
-        "rank": 97,
+        "rank": 96,
         "jugador": "Maykol Ramírez",
         "pts": 0
       },
       {
-        "rank": 98,
+        "rank": 97,
         "jugador": "Pancho",
         "pts": 0
       },
       {
-        "rank": 99,
+        "rank": 98,
         "jugador": "Vicente Carmi",
         "pts": 0
       },
       {
-        "rank": 100,
+        "rank": 99,
         "jugador": "Agustin Sepulveda",
         "pts": 0
       },
       {
-        "rank": 101,
+        "rank": 100,
         "jugador": "Joseph Lamartine",
         "pts": 0
       },
       {
-        "rank": 102,
+        "rank": 101,
         "jugador": "Valentina Soto",
         "pts": 0
       },
       {
-        "rank": 103,
+        "rank": 102,
         "jugador": "Fernando Molina",
         "pts": 0
       },
       {
-        "rank": 104,
+        "rank": 103,
         "jugador": "Bastian Paredes",
         "pts": 0
       },
       {
-        "rank": 105,
+        "rank": 104,
         "jugador": "Joaquin Francis",
         "pts": 0
       },
       {
-        "rank": 106,
+        "rank": 105,
         "jugador": "Nicolás Morales Macaya",
         "pts": 0
       },
       {
-        "rank": 107,
+        "rank": 106,
         "jugador": "Francisca Garcia",
         "pts": 0
       },
       {
-        "rank": 108,
+        "rank": 107,
         "jugador": "Cristián Olguín",
         "pts": 0
       },
       {
-        "rank": 109,
+        "rank": 108,
         "jugador": "Jaime Mercado",
         "pts": 0
       },
       {
-        "rank": 110,
+        "rank": 109,
         "jugador": "Marcelo Montecinos",
         "pts": 0
       },
       {
-        "rank": 111,
+        "rank": 110,
         "jugador": "Tomás Jefecito",
         "pts": 0
       },
       {
-        "rank": 112,
+        "rank": 111,
         "jugador": "Fabián Soto",
         "pts": 0
       },
       {
-        "rank": 113,
+        "rank": 112,
         "jugador": "Jose Gonzalez",
         "pts": 0
       },
       {
-        "rank": 114,
+        "rank": 113,
         "jugador": "Jorge Escobar",
         "pts": 0
       },
       {
-        "rank": 115,
+        "rank": 114,
         "jugador": "Gloria Bravo",
         "pts": 0
       },
       {
-        "rank": 116,
+        "rank": 115,
         "jugador": "Rolando Soto",
         "pts": 0
       },
       {
-        "rank": 117,
+        "rank": 116,
         "jugador": "Carlos Ojeda",
         "pts": 0
       },
       {
-        "rank": 118,
+        "rank": 117,
         "jugador": "Mauricio Quezada",
         "pts": 0
       }
@@ -2273,7 +2268,7 @@
       {
         "rank": 4,
         "jugador": "Alex Schultes",
-        "pts": 65
+        "pts": 75
       },
       {
         "rank": 5,
@@ -2357,156 +2352,151 @@
       },
       {
         "rank": 21,
-        "jugador": "Alex Schultez",
-        "pts": 10
-      },
-      {
-        "rank": 22,
         "jugador": "Maykol Ramírez",
         "pts": 10
       },
       {
-        "rank": 23,
+        "rank": 22,
         "jugador": "Andrés Rodríguez",
         "pts": 9
       },
       {
-        "rank": 24,
+        "rank": 23,
         "jugador": "Joaquín Saco",
         "pts": 9
       },
       {
-        "rank": 25,
+        "rank": 24,
         "jugador": "Eduardo Mena",
         "pts": 9
       },
       {
-        "rank": 26,
+        "rank": 25,
         "jugador": "Javiera Ibañez",
         "pts": 9
       },
       {
-        "rank": 27,
+        "rank": 26,
         "jugador": "Alex Inzunza",
         "pts": 9
       },
       {
-        "rank": 28,
+        "rank": 27,
         "jugador": "Vicente Carmi",
         "pts": 9
       },
       {
-        "rank": 29,
+        "rank": 28,
         "jugador": "Javier Gonzalez",
         "pts": 8
       },
       {
-        "rank": 30,
+        "rank": 29,
         "jugador": "Panchitow",
         "pts": 8
       },
       {
-        "rank": 31,
+        "rank": 30,
         "jugador": "Rodrigo Miranda",
         "pts": 7
       },
       {
-        "rank": 32,
+        "rank": 31,
         "jugador": "Nicolás Acuña",
         "pts": 7
       },
       {
-        "rank": 33,
+        "rank": 32,
         "jugador": "Fernando Yañez",
         "pts": 7
       },
       {
-        "rank": 34,
+        "rank": 33,
         "jugador": "Claudio Morales",
         "pts": 7
       },
       {
-        "rank": 35,
+        "rank": 34,
         "jugador": "Joseph Lamartine",
         "pts": 7
       },
       {
-        "rank": 36,
+        "rank": 35,
         "jugador": "Simon Saldivia",
         "pts": 5
       },
       {
-        "rank": 37,
+        "rank": 36,
         "jugador": "Benjamín Opazo",
         "pts": 4
       },
       {
-        "rank": 38,
+        "rank": 37,
         "jugador": "Alejandro Canales",
         "pts": 4
       },
       {
-        "rank": 39,
+        "rank": 38,
         "jugador": "Diego Vegas",
         "pts": 4
       },
       {
-        "rank": 40,
+        "rank": 39,
         "jugador": "Juan Francisco Guzman",
         "pts": 3
       },
       {
-        "rank": 41,
+        "rank": 40,
         "jugador": "Jose Gonzalez",
         "pts": 3
       },
       {
-        "rank": 42,
+        "rank": 41,
         "jugador": "Pedro Solano",
         "pts": 2
       },
       {
-        "rank": 43,
+        "rank": 42,
         "jugador": "Valentina Soto",
         "pts": 2
       },
       {
-        "rank": 44,
+        "rank": 43,
         "jugador": "Fernando Molina",
         "pts": 2
       },
       {
-        "rank": 45,
+        "rank": 44,
         "jugador": "Nicolás Rosas",
         "pts": 2
       },
       {
-        "rank": 46,
+        "rank": 45,
         "jugador": "Bastian Paredes",
         "pts": 1
       },
       {
-        "rank": 47,
+        "rank": 46,
         "jugador": "Jaime Mercado",
         "pts": 1
       },
       {
-        "rank": 48,
+        "rank": 47,
         "jugador": "Marcelo Montecinos",
         "pts": 1
       },
       {
-        "rank": 49,
+        "rank": 48,
         "jugador": "Pedro Vargas",
         "pts": 0
       },
       {
-        "rank": 50,
+        "rank": 49,
         "jugador": "Jorge Escobar",
         "pts": 0
       },
       {
-        "rank": 51,
+        "rank": 50,
         "jugador": "Gloria Bravo",
         "pts": 0
       }
