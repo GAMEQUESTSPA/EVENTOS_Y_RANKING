@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T13:10:49.045Z",
+  "generado": "2026-11-02T13:15:24.751Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1661,7 +1661,7 @@
       "url_producto": "https://gamequest.cl/roleplay-vaesen-el-baile-de-los-suenos-viernes-30-oct"
     },
     {
-      "id": "ev_1793625048898",
+      "id": "ev_1793625324506",
       "nombre": "B2",
       "tipo": "Liga Semanal Bracket 2 & Chill",
       "formato": "2026-11-02T03:00:00.000Z",
@@ -1673,7 +1673,7 @@
       "cupos_disponibles": "",
       "descripcion": "",
       "imagen_url": "",
-      "imagen_url_horizontal": "2026-11-02T13:10:48.898Z",
+      "imagen_url_horizontal": "2026-11-02T13:15:24.506Z",
       "estado": "",
       "producto_jumpseller_id": "",
       "temporada": "",
