@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T17:44:02.044Z",
+  "generado": "2026-11-02T18:35:52.976Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1661,25 +1661,25 @@
       "url_producto": "https://gamequest.cl/roleplay-vaesen-el-baile-de-los-suenos-viernes-30-oct"
     },
     {
-      "id": "",
-      "nombre": "",
-      "tipo": "",
+      "id": "ev_1793644552494",
+      "nombre": "Liga Semanal Bracket 2 & Chill",
+      "tipo": "B2",
       "formato": "",
-      "fecha": "",
-      "hora_inicio": "",
-      "hora_fin": "",
+      "fecha": "2026-11-02T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": "",
       "cupos_total": "",
       "cupos_disponibles": "",
       "descripcion": "",
-      "imagen_url": "",
-      "imagen_url_horizontal": "",
-      "estado": "",
-      "producto_jumpseller_id": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234741045/LIGA_20B2_20_26_20CHILL.png?1793623946",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234741045/LIGA_20B2_20_26_20CHILL-03.png?1793623946",
+      "estado": "proximo",
+      "producto_jumpseller_id": 1234741045,
       "temporada": "",
       "año": "",
       "rondas": "",
-      "url_producto": ""
+      "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-02-nov"
     }
   ],
   "rankings": {
