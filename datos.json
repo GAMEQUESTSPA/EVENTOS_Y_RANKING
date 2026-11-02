@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T18:35:52.976Z",
+  "generado": "2026-11-02T18:52:28.992Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1664,17 +1664,17 @@
       "id": "ev_1793644552494",
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "B2",
-      "formato": "",
+      "formato": "EDH B2",
       "fecha": "2026-11-02T03:00:00.000Z",
       "hora_inicio": "1899-12-30T23:42:45.000Z",
       "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": "",
-      "cupos_total": "",
-      "cupos_disponibles": "",
+      "cupos_total": 12,
+      "cupos_disponibles": 12,
       "descripcion": "",
       "imagen_url": "https://images.jumpseller.com/store/game-quest/1234741045/LIGA_20B2_20_26_20CHILL.png?1793623946",
       "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234741045/LIGA_20B2_20_26_20CHILL-03.png?1793623946",
-      "estado": "proximo",
+      "estado": "abierto",
       "producto_jumpseller_id": 1234741045,
       "temporada": "",
       "año": "",
