@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T20:30:02.634Z",
+  "generado": "2026-11-02T20:32:01.013Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1806,6 +1806,27 @@
       "año": "",
       "rondas": "",
       "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-16-nov"
+    },
+    {
+      "id": "ev_1793651520864",
+      "nombre": "Liga Semanal Bracket 2 & Chill",
+      "tipo": "B2",
+      "formato": "",
+      "fecha": "2026-11-23T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234746024/LIGA_20B2_20_26_20CHILL.png?1793651434",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234746024/LIGA_20B2_20_26_20CHILL-03.png?1793651435",
+      "estado": "proximo",
+      "producto_jumpseller_id": 1234746024,
+      "temporada": "",
+      "año": "",
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-23-nov"
     }
   ],
   "rankings": {
