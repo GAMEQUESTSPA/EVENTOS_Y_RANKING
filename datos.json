@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T20:37:17.862Z",
+  "generado": "2026-11-02T23:52:48.677Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1846,6 +1846,27 @@
       "producto_jumpseller_id": 1234746042,
       "temporada": "",
       "año": "",
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-30-nov"
+    },
+    {
+      "id": "ev_1793663568408",
+      "nombre": "TEST",
+      "tipo": "Evento Especial",
+      "formato": "",
+      "fecha": "2026-11-05T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234746042/LIGA_20B2_20_26_20CHILL.png?1793651524",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234746042/LIGA_20B2_20_26_20CHILL-03.png?1793651524",
+      "estado": "proximo",
+      "producto_jumpseller_id": 1234746042,
+      "temporada": "Q2-2026",
+      "año": 2026,
       "rondas": "",
       "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-30-nov"
     }
