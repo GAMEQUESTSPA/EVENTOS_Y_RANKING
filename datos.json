@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-31T13:49:45.580Z",
+  "generado": "2026-11-02T12:54:19.809Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1659,6 +1659,27 @@
       "año": 2026,
       "rondas": 1,
       "url_producto": "https://gamequest.cl/roleplay-vaesen-el-baile-de-los-suenos-viernes-30-oct"
+    },
+    {
+      "id": "ev_1793624059576",
+      "nombre": "B2",
+      "tipo": "Liga Semanal Bracket 2 & Chill",
+      "formato": "2026-11-02T03:00:00.000Z",
+      "fecha": "19:00-22:00",
+      "hora_inicio": "",
+      "hora_fin": "",
+      "precio": "",
+      "cupos_total": "proximo",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "",
+      "imagen_url_horizontal": "2026-11-02T12:54:19.576Z",
+      "estado": "",
+      "producto_jumpseller_id": "",
+      "temporada": "",
+      "año": "",
+      "rondas": "",
+      "url_producto": ""
     }
   ],
   "rankings": {
@@ -1666,2000 +1687,1620 @@
       {
         "rank": 1,
         "jugador": "Joaquín Cantero",
-        "pts": 1120,
-        "eventos": 45,
-        "mejor_pos": 1
+        "pts": 870
       },
       {
         "rank": 2,
-        "jugador": "Tomás Guzmán",
-        "pts": 420,
-        "eventos": 33,
-        "mejor_pos": 2
+        "jugador": "Tomás Guzman",
+        "pts": 485
       },
       {
         "rank": 3,
         "jugador": "David Calisto",
-        "pts": 385,
-        "eventos": 20,
-        "mejor_pos": 1
+        "pts": 425
       },
       {
         "rank": 4,
-        "jugador": "Matías Salgado",
-        "pts": 370,
-        "eventos": 9,
-        "mejor_pos": 1
+        "jugador": "Emilio Silva",
+        "pts": 320
       },
       {
         "rank": 5,
-        "jugador": "Emilio Silva",
-        "pts": 315,
-        "eventos": 10,
-        "mejor_pos": 1
+        "jugador": "María Eliana Torres",
+        "pts": 305
       },
       {
         "rank": 6,
-        "jugador": "María Eliana Torres",
-        "pts": 275,
-        "eventos": 15,
-        "mejor_pos": 1
+        "jugador": "Matias Salgado",
+        "pts": 275
       },
       {
         "rank": 7,
-        "jugador": "Manuel Méndez",
-        "pts": 270,
-        "eventos": 9,
-        "mejor_pos": 1
+        "jugador": "Alejandro Canales",
+        "pts": 270
       },
       {
         "rank": 8,
-        "jugador": "Alejandro Canales",
-        "pts": 245,
-        "eventos": 14,
-        "mejor_pos": 1
+        "jugador": "Diego Aravena",
+        "pts": 260
       },
       {
         "rank": 9,
-        "jugador": "Diego Aravena",
-        "pts": 245,
-        "eventos": 10,
-        "mejor_pos": 1
+        "jugador": "Joaquin Cantero",
+        "pts": 250
       },
       {
         "rank": 10,
-        "jugador": "Andrés Rodríguez",
-        "pts": 215,
-        "eventos": 7,
-        "mejor_pos": 1
+        "jugador": "Manuel Mendez",
+        "pts": 200
       },
       {
         "rank": 11,
-        "jugador": "Aldo González",
-        "pts": 200,
-        "eventos": 7,
-        "mejor_pos": 1
+        "jugador": "Ignacio Saavedra",
+        "pts": 180
       },
       {
         "rank": 12,
-        "jugador": "Ignacio Saavedra",
-        "pts": 160,
-        "eventos": 11,
-        "mejor_pos": 1
+        "jugador": "Aldo Gonzalez",
+        "pts": 170
       },
       {
         "rank": 13,
-        "jugador": "Alex Schultes",
-        "pts": 145,
-        "eventos": 10,
-        "mejor_pos": 1
+        "jugador": "Andrés Rodriguez",
+        "pts": 165
       },
       {
         "rank": 14,
-        "jugador": "Erick Farfán",
-        "pts": 145,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "Andrés Ramirez",
+        "pts": 135
       },
       {
         "rank": 15,
-        "jugador": "Jorge Aguirre",
-        "pts": 115,
-        "eventos": 6,
-        "mejor_pos": 1
+        "jugador": "Alex Schultes",
+        "pts": 125
       },
       {
         "rank": 16,
-        "jugador": "Andrés Ramírez",
-        "pts": 105,
-        "eventos": 14,
-        "mejor_pos": 3
+        "jugador": "Jorge Aguirre",
+        "pts": 125
       },
       {
         "rank": 17,
         "jugador": "Oscar Donoso",
-        "pts": 100,
-        "eventos": 6,
-        "mejor_pos": 1
+        "pts": 115
       },
       {
         "rank": 18,
-        "jugador": "Marco Camargo",
-        "pts": 100,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "David Silva",
+        "pts": 110
       },
       {
         "rank": 19,
-        "jugador": "Ignacio Maldonado",
-        "pts": 85,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Marco Camargo",
+        "pts": 110
       },
       {
         "rank": 20,
-        "jugador": "Felipe Concha",
-        "pts": 75,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Ignacio Maldonado",
+        "pts": 85
       },
       {
         "rank": 21,
-        "jugador": "Italo Rojas",
-        "pts": 70,
-        "eventos": 2,
-        "mejor_pos": 2
+        "jugador": "Erick Farfán",
+        "pts": 85
       },
       {
         "rank": 22,
-        "jugador": "David Silva",
-        "pts": 65,
-        "eventos": 11,
-        "mejor_pos": 1
+        "jugador": "Manuel Méndez",
+        "pts": 80
       },
       {
         "rank": 23,
-        "jugador": "Raúl Torreblanca",
-        "pts": 65,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "Nicolás Colignon",
+        "pts": 75
       },
       {
         "rank": 24,
-        "jugador": "Freddy Fuentes",
-        "pts": 65,
-        "eventos": 4,
-        "mejor_pos": 2
+        "jugador": "Felipe Concha",
+        "pts": 75
       },
       {
         "rank": 25,
-        "jugador": "Nicolás Colignon",
-        "pts": 60,
-        "eventos": 5,
-        "mejor_pos": 2
+        "jugador": "Francisca Araus",
+        "pts": 70
       },
       {
         "rank": 26,
-        "jugador": "Eduardo Mena",
-        "pts": 60,
-        "eventos": 4,
-        "mejor_pos": 2
+        "jugador": "Italo Rojas",
+        "pts": 70
       },
       {
         "rank": 27,
-        "jugador": "Jean Paul Larenas",
-        "pts": 60,
-        "eventos": 2,
-        "mejor_pos": 2
+        "jugador": "Eduardo Mena",
+        "pts": 70
       },
       {
         "rank": 28,
         "jugador": "Tomás Ibañez",
-        "pts": 60,
-        "eventos": 2,
-        "mejor_pos": 2
+        "pts": 60
       },
       {
         "rank": 29,
-        "jugador": "Francisca Araus",
-        "pts": 50,
-        "eventos": 6,
-        "mejor_pos": 2
+        "jugador": "Erick Farfan",
+        "pts": 60
       },
       {
         "rank": 30,
-        "jugador": "Remy Marambio",
-        "pts": 50,
-        "eventos": 3,
-        "mejor_pos": 1
+        "jugador": "Aldana Vallejos",
+        "pts": 50
       },
       {
         "rank": 31,
-        "jugador": "Mateo De Solminihac",
-        "pts": 50,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Alex Schultez",
+        "pts": 50
       },
       {
         "rank": 32,
-        "jugador": "Aldana Vallejos",
-        "pts": 50,
-        "eventos": 1,
-        "mejor_pos": 1
+        "jugador": "Andrés Rodríguez",
+        "pts": 50
       },
       {
         "rank": 33,
         "jugador": "Agustin Pavez",
-        "pts": 50,
-        "eventos": 1,
-        "mejor_pos": 1
+        "pts": 50
       },
       {
         "rank": 34,
-        "jugador": "Maycol Bravo",
-        "pts": 50,
-        "eventos": 1,
-        "mejor_pos": 1
+        "jugador": "Remy",
+        "pts": 50
       },
       {
         "rank": 35,
-        "jugador": "Bruno Palma",
-        "pts": 35,
-        "eventos": 3,
-        "mejor_pos": 2
+        "jugador": "Don Matias Salgado",
+        "pts": 50
       },
       {
         "rank": 36,
-        "jugador": "Claudio Morales",
-        "pts": 35,
-        "eventos": 3,
-        "mejor_pos": 2
+        "jugador": "Maycol Bravo",
+        "pts": 50
       },
       {
         "rank": 37,
-        "jugador": "Carlos Retamal",
-        "pts": 35,
-        "eventos": 2,
-        "mejor_pos": 2
+        "jugador": "Raúl Torrealba",
+        "pts": 50
       },
       {
         "rank": 38,
-        "jugador": "Matías Tófalos",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Matías Salgado",
+        "pts": 50
       },
       {
         "rank": 39,
-        "jugador": "Diego Pradenas",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Mateo De Solminihac",
+        "pts": 50
       },
       {
         "rank": 40,
-        "jugador": "Alejandro Cuevas",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Bruno Palma",
+        "pts": 45
       },
       {
         "rank": 41,
-        "jugador": "Maximiliano Aguilera",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Claudio Morales",
+        "pts": 45
       },
       {
         "rank": 42,
-        "jugador": "Juan Carlos Bodoque",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Aldo González",
+        "pts": 40
       },
       {
         "rank": 43,
-        "jugador": "Emilio Gonzalez",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Carlos Retamal",
+        "pts": 40
       },
       {
         "rank": 44,
-        "jugador": "Emilio Noguera",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Matías Tófalos",
+        "pts": 35
       },
       {
         "rank": 45,
-        "jugador": "Diego Vegas",
-        "pts": 35,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Diego Pradenas",
+        "pts": 35
       },
       {
         "rank": 46,
-        "jugador": "Javiera Ibañez",
-        "pts": 25,
-        "eventos": 3,
-        "mejor_pos": 3
+        "jugador": "Alejandro Cuevas",
+        "pts": 35
       },
       {
         "rank": 47,
-        "jugador": "Alex Inzunza",
-        "pts": 25,
-        "eventos": 3,
-        "mejor_pos": 3
+        "jugador": "Maximiliano Aguilera",
+        "pts": 35
       },
       {
         "rank": 48,
-        "jugador": "Jesus Rodriguez",
-        "pts": 25,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Joaquin",
+        "pts": 35
       },
       {
         "rank": 49,
-        "jugador": "Sebastián Sánchez",
-        "pts": 25,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Javiera Ibañez",
+        "pts": 35
       },
       {
         "rank": 50,
-        "jugador": "Andrew Starr",
-        "pts": 25,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Alex Inzunza",
+        "pts": 35
       },
       {
         "rank": 51,
-        "jugador": "Miguel Ángel Nuñez",
-        "pts": 25,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Juan Carlos Bodoque",
+        "pts": 35
       },
       {
         "rank": 52,
-        "jugador": "Jonathan Herrera",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Jean Poul Larenas",
+        "pts": 35
       },
       {
         "rank": 53,
-        "jugador": "Joaquín Saco",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Emilio Gonzalez",
+        "pts": 35
       },
       {
         "rank": 54,
-        "jugador": "Alejandro de la Fuente",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Freddy Fuentes",
+        "pts": 35
       },
       {
         "rank": 55,
-        "jugador": "Andrés Cantuarias",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Emilio Noguera",
+        "pts": 35
       },
       {
         "rank": 56,
-        "jugador": "Nicolas Rademacher",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Freddy Fuente",
+        "pts": 35
       },
       {
         "rank": 57,
-        "jugador": "Jukin",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Diego Vegas",
+        "pts": 35
       },
       {
         "rank": 58,
-        "jugador": "Francisco Otarola",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Jesus Rodriguez",
+        "pts": 30
       },
       {
         "rank": 59,
-        "jugador": "Nicolás Rosas",
-        "pts": 25,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Octavio Silva",
+        "pts": 30
       },
       {
         "rank": 60,
-        "jugador": "Octavio Silva",
-        "pts": 15,
-        "eventos": 4,
-        "mejor_pos": 4
+        "jugador": "Andrew Starr",
+        "pts": 30
       },
       {
         "rank": 61,
-        "jugador": "Francisco Colipi",
-        "pts": 15,
-        "eventos": 2,
-        "mejor_pos": 4
+        "jugador": "Jonathan Herrera",
+        "pts": 25
       },
       {
         "rank": 62,
-        "jugador": "Sebastián Pacheco",
-        "pts": 15,
-        "eventos": 2,
-        "mejor_pos": 4
+        "jugador": "Joaquín Saco",
+        "pts": 25
       },
       {
         "rank": 63,
-        "jugador": "Guido Bascur",
-        "pts": 15,
-        "eventos": 2,
-        "mejor_pos": 4
+        "jugador": "Joaquín cantero",
+        "pts": 25
       },
       {
         "rank": 64,
-        "jugador": "Diego Parra",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Alejandro de la Fuente",
+        "pts": 25
       },
       {
         "rank": 65,
-        "jugador": "Cristóbal Casassus",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Andrés Cantuarias",
+        "pts": 25
       },
       {
         "rank": 66,
-        "jugador": "Peter Salinas",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Jean Larenas",
+        "pts": 25
       },
       {
         "rank": 67,
-        "jugador": "Mario Barrios",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Nicolas Rademacher",
+        "pts": 25
       },
       {
         "rank": 68,
-        "jugador": "Vicente Aguilera",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Jukin",
+        "pts": 25
       },
       {
         "rank": 69,
-        "jugador": "Panchitow",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Sebastián Sanchez",
+        "pts": 25
       },
       {
         "rank": 70,
-        "jugador": "Pedro Solano",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Francisco Otarola",
+        "pts": 25
       },
       {
         "rank": 71,
-        "jugador": "Alfonso Aguilar",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Miguel Angel Nuñez",
+        "pts": 25
       },
       {
         "rank": 72,
-        "jugador": "Claudio Celis",
-        "pts": 15,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Nicolás Rosas",
+        "pts": 25
       },
       {
         "rank": 73,
-        "jugador": "Javier Gonzalez",
-        "pts": 0,
-        "eventos": 3,
-        "mejor_pos": 7
+        "jugador": "Francisco Colipi",
+        "pts": 20
       },
       {
         "rank": 74,
-        "jugador": "Cristóbal Treupil",
-        "pts": 0,
-        "eventos": 2,
-        "mejor_pos": 5
+        "jugador": "Sebastián Pacheco",
+        "pts": 20
       },
       {
         "rank": 75,
-        "jugador": "Juan Francisco Guzman",
-        "pts": 0,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Guido Bascur",
+        "pts": 20
       },
       {
         "rank": 76,
-        "jugador": "Maykol Ramírez",
-        "pts": 0,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Diego Parra",
+        "pts": 15
       },
       {
         "rank": 77,
-        "jugador": "Vicente Carmi",
-        "pts": 0,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Cristóbal Casassus",
+        "pts": 15
       },
       {
         "rank": 78,
-        "jugador": "Ignacio Ramirez",
-        "pts": 0,
-        "eventos": 2,
-        "mejor_pos": 7
+        "jugador": "Javier Gonzalez",
+        "pts": 15
       },
       {
         "rank": 79,
-        "jugador": "Annie Vergara",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Peter Salinas",
+        "pts": 15
       },
       {
         "rank": 80,
-        "jugador": "Tokmy",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Raúl Torreblanca",
+        "pts": 15
       },
       {
         "rank": 81,
-        "jugador": "Reptinoide",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Mario Barrios",
+        "pts": 15
       },
       {
         "rank": 82,
-        "jugador": "John Chaves",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Vicente Aguilera",
+        "pts": 15
       },
       {
         "rank": 83,
-        "jugador": "Joaquin Francis",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Panchitow",
+        "pts": 15
       },
       {
         "rank": 84,
-        "jugador": "Tomás Jefecito",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Pedro Solano",
+        "pts": 15
       },
       {
         "rank": 85,
-        "jugador": "Jose Gonzalez",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Alfonso Aguilar",
+        "pts": 15
       },
       {
         "rank": 86,
-        "jugador": "Nicolás Saavedra",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Tomás Guzmán",
+        "pts": 15
       },
       {
         "rank": 87,
-        "jugador": "Kyzo",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Claudio Celis",
+        "pts": 15
       },
       {
         "rank": 88,
-        "jugador": "Pancho",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Ignacio Ramirez",
+        "pts": 10
       },
       {
         "rank": 89,
-        "jugador": "Joseph Lamartine",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Raul Torreblanca",
+        "pts": 10
       },
       {
         "rank": 90,
-        "jugador": "Valentina Soto",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Andres Ramirez",
+        "pts": 10
       },
       {
         "rank": 91,
-        "jugador": "Nicolás Morales Macaya",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Juan Francisco Guzman",
+        "pts": 10
       },
       {
         "rank": 92,
-        "jugador": "Cristián Olguín",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Vicente Carmi",
+        "pts": 10
       },
       {
         "rank": 93,
-        "jugador": "Fabián Soto",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Remy Marambio",
+        "pts": 10
       },
       {
         "rank": 94,
-        "jugador": "Rolando Soto",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Annie Vergara",
+        "pts": 5
       },
       {
         "rank": 95,
-        "jugador": "Ignacio Rojas",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Nicolás Saavedra",
+        "pts": 5
       },
       {
         "rank": 96,
-        "jugador": "Rodrigo Miranda",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Ignacio Rojas",
+        "pts": 5
       },
       {
         "rank": 97,
-        "jugador": "Christopher Cortez",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Alejandra Suárez",
+        "pts": 5
       },
       {
         "rank": 98,
-        "jugador": "Cris",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Andres Rodriguez",
+        "pts": 5
       },
       {
         "rank": 99,
-        "jugador": "Agustin Sepulveda",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Andrés Ramirez Gonzalez",
+        "pts": 5
       },
       {
         "rank": 100,
-        "jugador": "Francisca Garcia",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Simon Saldivia",
+        "pts": 5
       },
       {
         "rank": 101,
-        "jugador": "Jaime Mercado",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Rodrigo Miranda",
+        "pts": 5
       },
       {
         "rank": 102,
-        "jugador": "Carlos Ojeda",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Nicolás Acuña",
+        "pts": 5
       },
       {
         "rank": 103,
-        "jugador": "Alejandra Suárez",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Fernando Yañez",
+        "pts": 5
       },
       {
         "rank": 104,
-        "jugador": "Simon Saldivia",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Christopher Cortez",
+        "pts": 5
       },
       {
         "rank": 105,
-        "jugador": "Nicolás Acuña",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Tomas Guzman",
+        "pts": 5
       },
       {
         "rank": 106,
-        "jugador": "Pedro Vargas",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Matteo De Solminiac",
+        "pts": 5
       },
       {
         "rank": 107,
-        "jugador": "Nico",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Cristóbal Treupil",
+        "pts": 5
       },
       {
         "rank": 108,
-        "jugador": "Marcelo Montecinos",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Pedro Vargas",
+        "pts": 5
       },
       {
         "rank": 109,
-        "jugador": "Jorge Escobar",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Ignacio Herrera",
+        "pts": 5
       },
       {
         "rank": 110,
-        "jugador": "Mauricio Quezada",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Sebastian Sanchez",
+        "pts": 5
       },
       {
         "rank": 111,
-        "jugador": "Fernando Yañez",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Ignacio Saavedera",
+        "pts": 5
       },
       {
         "rank": 112,
-        "jugador": "Matias Mocanu",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Tokmy",
+        "pts": 5
       },
       {
         "rank": 113,
-        "jugador": "Fernando Molina",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Kyzo",
+        "pts": 5
       },
       {
         "rank": 114,
-        "jugador": "Ignacio Herrera",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 10
+        "jugador": "Cris",
+        "pts": 5
       },
       {
         "rank": 115,
-        "jugador": "Benjamín Opazo",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 10
+        "jugador": "Nico",
+        "pts": 5
       },
       {
         "rank": 116,
-        "jugador": "Gloria Bravo",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 10
+        "jugador": "Cristobal Trupil",
+        "pts": 5
       },
       {
         "rank": 117,
+        "jugador": "Matias Mocanu",
+        "pts": 5
+      },
+      {
+        "rank": 118,
+        "jugador": "Benjamín Opazo",
+        "pts": 5
+      },
+      {
+        "rank": 119,
+        "jugador": "Reptinoide",
+        "pts": 5
+      },
+      {
+        "rank": 120,
+        "jugador": "John Chaves",
+        "pts": 5
+      },
+      {
+        "rank": 121,
+        "jugador": "Maykol Ramirez",
+        "pts": 5
+      },
+      {
+        "rank": 122,
+        "jugador": "Pancho",
+        "pts": 5
+      },
+      {
+        "rank": 123,
+        "jugador": "Maikol Ramirez",
+        "pts": 5
+      },
+      {
+        "rank": 124,
+        "jugador": "Agustin Sepulveda",
+        "pts": 5
+      },
+      {
+        "rank": 125,
+        "jugador": "Joseph Lamartine",
+        "pts": 5
+      },
+      {
+        "rank": 126,
+        "jugador": "Valentina Soto",
+        "pts": 5
+      },
+      {
+        "rank": 127,
+        "jugador": "Fernando Molina",
+        "pts": 5
+      },
+      {
+        "rank": 128,
         "jugador": "Bastian Paredes",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 11
+        "pts": 5
+      },
+      {
+        "rank": 129,
+        "jugador": "Joaquin Francis",
+        "pts": 5
+      },
+      {
+        "rank": 130,
+        "jugador": "Nicolás Morales Macaya",
+        "pts": 5
+      },
+      {
+        "rank": 131,
+        "jugador": "Francisca Garcia",
+        "pts": 5
+      },
+      {
+        "rank": 132,
+        "jugador": "Cristián Olguín",
+        "pts": 5
+      },
+      {
+        "rank": 133,
+        "jugador": "Jaime Mercado",
+        "pts": 5
+      },
+      {
+        "rank": 134,
+        "jugador": "Marcelo Montecinos",
+        "pts": 5
+      },
+      {
+        "rank": 135,
+        "jugador": "Tomás Jefecito",
+        "pts": 5
+      },
+      {
+        "rank": 136,
+        "jugador": "Fabián Soto",
+        "pts": 5
+      },
+      {
+        "rank": 137,
+        "jugador": "Jose Gonzalez",
+        "pts": 5
+      },
+      {
+        "rank": 138,
+        "jugador": "Jorge Escobar",
+        "pts": 5
+      },
+      {
+        "rank": 139,
+        "jugador": "Gloria Bravo",
+        "pts": 5
+      },
+      {
+        "rank": 140,
+        "jugador": "Miguelñ Nuñez",
+        "pts": 5
+      },
+      {
+        "rank": 141,
+        "jugador": "Rolando Soto",
+        "pts": 5
+      },
+      {
+        "rank": 142,
+        "jugador": "Carlos Ojeda",
+        "pts": 5
+      },
+      {
+        "rank": 143,
+        "jugador": "Mauricio Quezada",
+        "pts": 5
       }
     ],
     "B2": [
       {
         "rank": 1,
         "jugador": "David Calisto",
-        "pts": 138,
-        "eventos": 19,
-        "mejor_pos": 1
+        "pts": 138
       },
       {
         "rank": 2,
-        "jugador": "Joaquín Cantero",
-        "pts": 132,
-        "eventos": 17,
-        "mejor_pos": 1
+        "jugador": "Tomás Guzman",
+        "pts": 104
       },
       {
         "rank": 3,
-        "jugador": "Tomás Guzmán",
-        "pts": 104,
-        "eventos": 15,
-        "mejor_pos": 2
+        "jugador": "Joaquín Cantero",
+        "pts": 96
       },
       {
         "rank": 4,
         "jugador": "Alex Schultes",
-        "pts": 75,
-        "eventos": 10,
-        "mejor_pos": 1
+        "pts": 65
       },
       {
         "rank": 5,
         "jugador": "Ignacio Saavedra",
-        "pts": 64,
-        "eventos": 9,
-        "mejor_pos": 1
+        "pts": 56
       },
       {
         "rank": 6,
-        "jugador": "Andrés Ramírez",
-        "pts": 56,
-        "eventos": 11,
-        "mejor_pos": 3
+        "jugador": "María Eliana Torres",
+        "pts": 44
       },
       {
         "rank": 7,
-        "jugador": "Aldo González",
-        "pts": 54,
-        "eventos": 7,
-        "mejor_pos": 1
+        "jugador": "Andrés Ramirez",
+        "pts": 41
       },
       {
         "rank": 8,
-        "jugador": "María Eliana Torres",
-        "pts": 44,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "Joaquin Cantero",
+        "pts": 36
       },
       {
         "rank": 9,
-        "jugador": "Freddy Fuentes",
-        "pts": 33,
-        "eventos": 4,
-        "mejor_pos": 2
+        "jugador": "Aldo Gonzalez",
+        "pts": 36
       },
       {
         "rank": 10,
         "jugador": "Marco Camargo",
-        "pts": 29,
-        "eventos": 4,
-        "mejor_pos": 1
+        "pts": 29
       },
       {
         "rank": 11,
-        "jugador": "Nicolás Colignon",
-        "pts": 22,
-        "eventos": 3,
-        "mejor_pos": 2
+        "jugador": "Freddy Fuentes",
+        "pts": 23
       },
       {
         "rank": 12,
-        "jugador": "Sebastián Sánchez",
-        "pts": 18,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Nicolás Colignon",
+        "pts": 22
       },
       {
         "rank": 13,
-        "jugador": "Jesus Rodriguez",
-        "pts": 16,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Aldo González",
+        "pts": 18
       },
       {
         "rank": 14,
-        "jugador": "Sebastián Pacheco",
-        "pts": 16,
-        "eventos": 2,
-        "mejor_pos": 4
+        "jugador": "Jesus Rodriguez",
+        "pts": 16
       },
       {
         "rank": 15,
-        "jugador": "Erick Farfán",
-        "pts": 15,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "Sebastián Pacheco",
+        "pts": 16
       },
       {
         "rank": 16,
-        "jugador": "Cristóbal Treupil",
-        "pts": 13,
-        "eventos": 2,
-        "mejor_pos": 5
+        "jugador": "Matias Salgado",
+        "pts": 12
       },
       {
         "rank": 17,
-        "jugador": "Matías Salgado",
-        "pts": 12,
-        "eventos": 1,
-        "mejor_pos": 1
+        "jugador": "Bruno Palma",
+        "pts": 12
       },
       {
         "rank": 18,
-        "jugador": "Bruno Palma",
-        "pts": 12,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Andrés Cantuarias",
+        "pts": 11
       },
       {
         "rank": 19,
         "jugador": "Francisca Araus",
-        "pts": 11,
-        "eventos": 2,
-        "mejor_pos": 2
+        "pts": 11
       },
       {
         "rank": 20,
-        "jugador": "Andrés Cantuarias",
-        "pts": 11,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Alex Schultez",
+        "pts": 10
       },
       {
         "rank": 21,
-        "jugador": "Maykol Ramírez",
-        "pts": 10,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Sebastian Sanchez",
+        "pts": 10
       },
       {
         "rank": 22,
-        "jugador": "Alex Inzunza",
-        "pts": 9,
-        "eventos": 3,
-        "mejor_pos": 3
+        "jugador": "Freddy Fuente",
+        "pts": 10
       },
       {
         "rank": 23,
-        "jugador": "Javiera Ibañez",
-        "pts": 9,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Andres Rodriguez",
+        "pts": 9
       },
       {
         "rank": 24,
-        "jugador": "Vicente Carmi",
-        "pts": 9,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Joaquín Saco",
+        "pts": 9
       },
       {
         "rank": 25,
-        "jugador": "Joaquín Saco",
-        "pts": 9,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Eduardo Mena",
+        "pts": 9
       },
       {
         "rank": 26,
-        "jugador": "Andrés Rodríguez",
-        "pts": 9,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Javiera Ibañez",
+        "pts": 9
       },
       {
         "rank": 27,
-        "jugador": "Eduardo Mena",
-        "pts": 9,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Alex Inzunza",
+        "pts": 9
       },
       {
         "rank": 28,
-        "jugador": "Javier Gonzalez",
-        "pts": 8,
-        "eventos": 3,
-        "mejor_pos": 7
+        "jugador": "Vicente Carmi",
+        "pts": 9
       },
       {
         "rank": 29,
-        "jugador": "Panchitow",
-        "pts": 8,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Erick Farfán",
+        "pts": 9
       },
       {
         "rank": 30,
-        "jugador": "Claudio Morales",
-        "pts": 7,
-        "eventos": 3,
-        "mejor_pos": 2
+        "jugador": "Javier Gonzalez",
+        "pts": 8
       },
       {
         "rank": 31,
-        "jugador": "Joseph Lamartine",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Ignacio Saavedera",
+        "pts": 8
       },
       {
         "rank": 32,
-        "jugador": "Rodrigo Miranda",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Andres Ramirez",
+        "pts": 8
       },
       {
         "rank": 33,
-        "jugador": "Nicolás Acuña",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Sebastián Sanchez",
+        "pts": 8
       },
       {
         "rank": 34,
-        "jugador": "Fernando Yañez",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Panchitow",
+        "pts": 8
       },
       {
         "rank": 35,
-        "jugador": "Simon Saldivia",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Andrés Ramirez Gonzalez",
+        "pts": 7
       },
       {
         "rank": 36,
-        "jugador": "Diego Vegas",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Rodrigo Miranda",
+        "pts": 7
       },
       {
         "rank": 37,
-        "jugador": "Alejandro Canales",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Nicolás Acuña",
+        "pts": 7
       },
       {
         "rank": 38,
-        "jugador": "Benjamín Opazo",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 10
+        "jugador": "Fernando Yañez",
+        "pts": 7
       },
       {
         "rank": 39,
-        "jugador": "Jose Gonzalez",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Cristóbal Treupil",
+        "pts": 7
       },
       {
         "rank": 40,
-        "jugador": "Juan Francisco Guzman",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 12
+        "jugador": "Claudio Morales",
+        "pts": 7
       },
       {
         "rank": 41,
-        "jugador": "Nicolás Rosas",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Joseph Lamartine",
+        "pts": 7
       },
       {
         "rank": 42,
-        "jugador": "Pedro Solano",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Cristobal Trupil",
+        "pts": 6
       },
       {
         "rank": 43,
-        "jugador": "Valentina Soto",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Maykol Ramirez",
+        "pts": 6
       },
       {
         "rank": 44,
-        "jugador": "Fernando Molina",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Erick Farfan",
+        "pts": 6
       },
       {
         "rank": 45,
-        "jugador": "Jaime Mercado",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Simon Saldivia",
+        "pts": 5
       },
       {
         "rank": 46,
-        "jugador": "Marcelo Montecinos",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Benjamín Opazo",
+        "pts": 4
       },
       {
         "rank": 47,
-        "jugador": "Bastian Paredes",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 11
+        "jugador": "Maikol Ramirez",
+        "pts": 4
       },
       {
         "rank": 48,
-        "jugador": "Pedro Vargas",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Alejandro Canales",
+        "pts": 4
       },
       {
         "rank": 49,
-        "jugador": "Jorge Escobar",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Diego Vegas",
+        "pts": 4
       },
       {
         "rank": 50,
+        "jugador": "Juan Francisco Guzman",
+        "pts": 3
+      },
+      {
+        "rank": 51,
+        "jugador": "Jose Gonzalez",
+        "pts": 3
+      },
+      {
+        "rank": 52,
+        "jugador": "Pedro Solano",
+        "pts": 2
+      },
+      {
+        "rank": 53,
+        "jugador": "Valentina Soto",
+        "pts": 2
+      },
+      {
+        "rank": 54,
+        "jugador": "Fernando Molina",
+        "pts": 2
+      },
+      {
+        "rank": 55,
+        "jugador": "Nicolás Rosas",
+        "pts": 2
+      },
+      {
+        "rank": 56,
+        "jugador": "Bastian Paredes",
+        "pts": 1
+      },
+      {
+        "rank": 57,
+        "jugador": "Jaime Mercado",
+        "pts": 1
+      },
+      {
+        "rank": 58,
+        "jugador": "Marcelo Montecinos",
+        "pts": 1
+      },
+      {
+        "rank": 59,
+        "jugador": "Pedro Vargas",
+        "pts": 0
+      },
+      {
+        "rank": 60,
+        "jugador": "Jorge Escobar",
+        "pts": 0
+      },
+      {
+        "rank": 61,
         "jugador": "Gloria Bravo",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 10
+        "pts": 0
       }
     ],
     "B3": [
       {
         "rank": 1,
-        "jugador": "Joaquín Cantero",
-        "pts": 59,
-        "eventos": 15,
-        "mejor_pos": 1
+        "jugador": "Emilio Silva",
+        "pts": 54
       },
       {
         "rank": 2,
-        "jugador": "Emilio Silva",
-        "pts": 54,
-        "eventos": 10,
-        "mejor_pos": 1
+        "jugador": "Joaquín Cantero",
+        "pts": 52
       },
       {
         "rank": 3,
-        "jugador": "Manuel Méndez",
-        "pts": 48,
-        "eventos": 9,
-        "mejor_pos": 1
+        "jugador": "Manuel Mendez",
+        "pts": 33
       },
       {
         "rank": 4,
         "jugador": "Alejandro Canales",
-        "pts": 30,
-        "eventos": 10,
-        "mejor_pos": 1
+        "pts": 30
       },
       {
         "rank": 5,
-        "jugador": "Andrés Rodríguez",
-        "pts": 26,
-        "eventos": 5,
-        "mejor_pos": 1
+        "jugador": "Andrés Rodriguez",
+        "pts": 20
       },
       {
         "rank": 6,
         "jugador": "David Silva",
-        "pts": 16,
-        "eventos": 11,
-        "mejor_pos": 1
+        "pts": 16
       },
       {
         "rank": 7,
-        "jugador": "Mateo De Solminihac",
-        "pts": 16,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Manuel Méndez",
+        "pts": 15
       },
       {
         "rank": 8,
-        "jugador": "Ignacio Maldonado",
-        "pts": 14,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Mateo De Solminihac",
+        "pts": 15
       },
       {
         "rank": 9,
-        "jugador": "Tomás Guzmán",
-        "pts": 12,
-        "eventos": 6,
-        "mejor_pos": 2
+        "jugador": "Ignacio Maldonado",
+        "pts": 14
       },
       {
         "rank": 10,
-        "jugador": "Jorge Aguirre",
-        "pts": 10,
-        "eventos": 4,
-        "mejor_pos": 4
+        "jugador": "Tomás Guzman",
+        "pts": 11
       },
       {
         "rank": 11,
-        "jugador": "Maycol Bravo",
-        "pts": 9,
-        "eventos": 1,
-        "mejor_pos": 1
+        "jugador": "Jorge Aguirre",
+        "pts": 10
       },
       {
         "rank": 12,
-        "jugador": "Emilio Noguera",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Maycol Bravo",
+        "pts": 9
       },
       {
         "rank": 13,
-        "jugador": "Tomás Ibañez",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Joaquin Cantero",
+        "pts": 7
       },
       {
         "rank": 14,
-        "jugador": "Octavio Silva",
-        "pts": 4,
-        "eventos": 3,
-        "mejor_pos": 4
+        "jugador": "Andrés Rodríguez",
+        "pts": 6
       },
       {
         "rank": 15,
-        "jugador": "Ignacio Ramirez",
-        "pts": 4,
-        "eventos": 2,
-        "mejor_pos": 7
+        "jugador": "Emilio Noguera",
+        "pts": 5
       },
       {
         "rank": 16,
-        "jugador": "Juan Carlos Bodoque",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Tomás Ibañez",
+        "pts": 5
       },
       {
         "rank": 17,
-        "jugador": "Javiera Ibañez",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Ignacio Ramirez",
+        "pts": 4
       },
       {
         "rank": 18,
-        "jugador": "Remy Marambio",
-        "pts": 3,
-        "eventos": 2,
-        "mejor_pos": 6
+        "jugador": "Octavio Silva",
+        "pts": 4
       },
       {
         "rank": 19,
-        "jugador": "Alejandro Cuevas",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Juan Carlos Bodoque",
+        "pts": 4
       },
       {
         "rank": 20,
-        "jugador": "María Eliana Torres",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Javiera Ibañez",
+        "pts": 4
       },
       {
         "rank": 21,
-        "jugador": "Eduardo Mena",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "María Eliana Torres",
+        "pts": 3
       },
       {
         "rank": 22,
-        "jugador": "Alejandro de la Fuente",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Alejandro Cuevas",
+        "pts": 3
       },
       {
         "rank": 23,
-        "jugador": "Francisca Araus",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Remy Marambio",
+        "pts": 3
       },
       {
         "rank": 24,
-        "jugador": "Guido Bascur",
-        "pts": 1,
-        "eventos": 2,
-        "mejor_pos": 4
+        "jugador": "Francisca Araus",
+        "pts": 2
       },
       {
         "rank": 25,
-        "jugador": "Bruno Palma",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Alejandro de la Fuente",
+        "pts": 2
       },
       {
         "rank": 26,
-        "jugador": "John Chaves",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Eduardo Mena",
+        "pts": 2
       },
       {
         "rank": 27,
-        "jugador": "Tomás Jefecito",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Matteo De Solminiac",
+        "pts": 1
       },
       {
         "rank": 28,
-        "jugador": "Fabián Soto",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Bruno Palma",
+        "pts": 1
       },
       {
         "rank": 29,
-        "jugador": "Agustin Sepulveda",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Guido Bascur",
+        "pts": 1
       },
       {
         "rank": 30,
-        "jugador": "Pancho",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "John Chaves",
+        "pts": 1
       },
       {
         "rank": 31,
+        "jugador": "Agustin Sepulveda",
+        "pts": 1
+      },
+      {
+        "rank": 32,
+        "jugador": "Tomás Guzmán",
+        "pts": 1
+      },
+      {
+        "rank": 33,
+        "jugador": "Tomás Jefecito",
+        "pts": 1
+      },
+      {
+        "rank": 34,
+        "jugador": "Fabián Soto",
+        "pts": 1
+      },
+      {
+        "rank": 35,
         "jugador": "Oscar Donoso",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "pts": 0
+      },
+      {
+        "rank": 36,
+        "jugador": "Pancho",
+        "pts": 0
       }
     ],
     "Precon": [
       {
         "rank": 1,
-        "jugador": "Matías Salgado",
-        "pts": 51,
-        "eventos": 8,
-        "mejor_pos": 1
+        "jugador": "Diego Aravena",
+        "pts": 48
       },
       {
         "rank": 2,
-        "jugador": "Diego Aravena",
-        "pts": 48,
-        "eventos": 10,
-        "mejor_pos": 1
+        "jugador": "Matias Salgado",
+        "pts": 35
       },
       {
         "rank": 3,
-        "jugador": "Joaquín Cantero",
-        "pts": 24,
-        "eventos": 9,
-        "mejor_pos": 1
+        "jugador": "Tomás Guzman",
+        "pts": 22
       },
       {
         "rank": 4,
-        "jugador": "Tomás Guzmán",
-        "pts": 23,
-        "eventos": 10,
-        "mejor_pos": 2
+        "jugador": "María Eliana Torres",
+        "pts": 18
       },
       {
         "rank": 5,
-        "jugador": "María Eliana Torres",
-        "pts": 18,
-        "eventos": 9,
-        "mejor_pos": 2
+        "jugador": "Oscar Donoso",
+        "pts": 13
       },
       {
         "rank": 6,
-        "jugador": "Raúl Torreblanca",
-        "pts": 16,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "Don Matias Salgado",
+        "pts": 12
       },
       {
         "rank": 7,
-        "jugador": "Oscar Donoso",
-        "pts": 13,
-        "eventos": 5,
-        "mejor_pos": 1
+        "jugador": "Joaquín Cantero",
+        "pts": 10
       },
       {
         "rank": 8,
-        "jugador": "Jean Paul Larenas",
-        "pts": 9,
-        "eventos": 2,
-        "mejor_pos": 2
+        "jugador": "Joaquin Cantero",
+        "pts": 9
       },
       {
         "rank": 9,
         "jugador": "Agustin Pavez",
-        "pts": 8,
-        "eventos": 1,
-        "mejor_pos": 1
+        "pts": 8
       },
       {
         "rank": 10,
         "jugador": "Maximiliano Aguilera",
-        "pts": 8,
-        "eventos": 1,
-        "mejor_pos": 2
+        "pts": 8
       },
       {
         "rank": 11,
-        "jugador": "Andrew Starr",
-        "pts": 6,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Francisco Colipi",
+        "pts": 6
       },
       {
         "rank": 12,
-        "jugador": "Francisco Colipi",
-        "pts": 6,
-        "eventos": 2,
-        "mejor_pos": 4
+        "jugador": "Raul Torreblanca",
+        "pts": 6
       },
       {
         "rank": 13,
-        "jugador": "Diego Pradenas",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Andrew Starr",
+        "pts": 6
       },
       {
         "rank": 14,
-        "jugador": "Nicolas Rademacher",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Diego Pradenas",
+        "pts": 5
       },
       {
         "rank": 15,
-        "jugador": "Jukin",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Joaquín cantero",
+        "pts": 5
       },
       {
         "rank": 16,
         "jugador": "Cristóbal Casassus",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 4
+        "pts": 5
       },
       {
         "rank": 17,
-        "jugador": "Peter Salinas",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Jean Larenas",
+        "pts": 5
       },
       {
         "rank": 18,
-        "jugador": "Francisca Araus",
-        "pts": 4,
-        "eventos": 3,
-        "mejor_pos": 4
+        "jugador": "Peter Salinas",
+        "pts": 5
       },
       {
         "rank": 19,
-        "jugador": "Andrés Ramírez",
-        "pts": 4,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Nicolas Rademacher",
+        "pts": 5
       },
       {
         "rank": 20,
-        "jugador": "Nicolás Colignon",
-        "pts": 4,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Raúl Torreblanca",
+        "pts": 5
       },
       {
         "rank": 21,
-        "jugador": "Italo Rojas",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Raúl Torrealba",
+        "pts": 5
       },
       {
         "rank": 22,
-        "jugador": "Alejandro Canales",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Jukin",
+        "pts": 5
       },
       {
         "rank": 23,
-        "jugador": "David Calisto",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Francisca Araus",
+        "pts": 4
       },
       {
         "rank": 24,
-        "jugador": "Ignacio Saavedra",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Andrés Ramirez",
+        "pts": 4
       },
       {
         "rank": 25,
-        "jugador": "Octavio Silva",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Nicolás Colignon",
+        "pts": 4
       },
       {
         "rank": 26,
-        "jugador": "Francisco Otarola",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Jean Poul Larenas",
+        "pts": 4
       },
       {
         "rank": 27,
-        "jugador": "Mario Barrios",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Matías Salgado",
+        "pts": 4
       },
       {
         "rank": 28,
-        "jugador": "Reptinoide",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Italo Rojas",
+        "pts": 4
       },
       {
         "rank": 29,
-        "jugador": "Christopher Cortez",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "David Calisto",
+        "pts": 3
       },
       {
         "rank": 30,
-        "jugador": "Matias Mocanu",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 9
+        "jugador": "Alejandro Canales",
+        "pts": 3
       },
       {
         "rank": 31,
-        "jugador": "Ignacio Herrera",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 10
+        "jugador": "Octavio Silva",
+        "pts": 2
       },
       {
         "rank": 32,
+        "jugador": "Ignacio Saavedra",
+        "pts": 2
+      },
+      {
+        "rank": 33,
+        "jugador": "Christopher Cortez",
+        "pts": 1
+      },
+      {
+        "rank": 34,
+        "jugador": "Tomas Guzman",
+        "pts": 1
+      },
+      {
+        "rank": 35,
+        "jugador": "Ignacio Herrera",
+        "pts": 1
+      },
+      {
+        "rank": 36,
+        "jugador": "Matias Mocanu",
+        "pts": 1
+      },
+      {
+        "rank": 37,
+        "jugador": "Reptinoide",
+        "pts": 1
+      },
+      {
+        "rank": 38,
+        "jugador": "Francisco Otarola",
+        "pts": 1
+      },
+      {
+        "rank": 39,
+        "jugador": "Mario Barrios",
+        "pts": 1
+      },
+      {
+        "rank": 40,
         "jugador": "Vicente Aguilera",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 4
+        "pts": 0
       }
     ],
     "Unico": [
       {
         "rank": 1,
-        "jugador": "Joaquín Cantero",
-        "pts": 20,
-        "eventos": 4,
-        "mejor_pos": 1
+        "jugador": "Alejandro Canales",
+        "pts": 18
       },
       {
         "rank": 2,
-        "jugador": "Alejandro Canales",
-        "pts": 18,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Felipe Concha",
+        "pts": 18
       },
       {
         "rank": 3,
-        "jugador": "Felipe Concha",
-        "pts": 18,
-        "eventos": 2,
-        "mejor_pos": 1
+        "jugador": "Joaquín Cantero",
+        "pts": 10
       },
       {
         "rank": 4,
         "jugador": "Jorge Aguirre",
-        "pts": 10,
-        "eventos": 2,
-        "mejor_pos": 1
+        "pts": 10
       },
       {
         "rank": 5,
         "jugador": "Eduardo Mena",
-        "pts": 9,
-        "eventos": 2,
-        "mejor_pos": 3
+        "pts": 9
       },
       {
         "rank": 6,
-        "jugador": "Miguel Ángel Nuñez",
-        "pts": 9,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Joaquin Cantero",
+        "pts": 9
       },
       {
         "rank": 7,
-        "jugador": "Carlos Retamal",
-        "pts": 6,
-        "eventos": 2,
-        "mejor_pos": 2
+        "jugador": "Emilio Gonzalez",
+        "pts": 6
       },
       {
         "rank": 8,
-        "jugador": "Emilio Gonzalez",
-        "pts": 6,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Miguel Angel Nuñez",
+        "pts": 6
       },
       {
         "rank": 9,
-        "jugador": "Tomás Ibañez",
-        "pts": 6,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Alfonso Aguilar",
+        "pts": 6
       },
       {
         "rank": 10,
-        "jugador": "Alfonso Aguilar",
-        "pts": 6,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Carlos Retamal",
+        "pts": 6
       },
       {
         "rank": 11,
-        "jugador": "Claudio Celis",
-        "pts": 6,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Tomás Ibañez",
+        "pts": 6
       },
       {
         "rank": 12,
-        "jugador": "Tomás Guzmán",
-        "pts": 5,
-        "eventos": 2,
-        "mejor_pos": 3
+        "jugador": "Claudio Celis",
+        "pts": 6
       },
       {
         "rank": 13,
-        "jugador": "Italo Rojas",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Tomás Guzman",
+        "pts": 5
       },
       {
         "rank": 14,
-        "jugador": "Andrés Rodríguez",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Italo Rojas",
+        "pts": 4
       },
       {
         "rank": 15,
-        "jugador": "Andrés Ramírez",
-        "pts": 4,
-        "eventos": 1,
-        "mejor_pos": 4
+        "jugador": "Andrés Rodriguez",
+        "pts": 4
       },
       {
         "rank": 16,
-        "jugador": "Joaquin Francis",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Andrés Ramirez",
+        "pts": 4
       },
       {
         "rank": 17,
-        "jugador": "Ignacio Saavedra",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Joaquin Francis",
+        "pts": 3
       },
       {
         "rank": 18,
         "jugador": "Nicolás Morales Macaya",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 6
+        "pts": 3
       },
       {
         "rank": 19,
-        "jugador": "Cristián Olguín",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Francisca Garcia",
+        "pts": 3
       },
       {
         "rank": 20,
-        "jugador": "Rolando Soto",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Ignacio Saavedra",
+        "pts": 3
       },
       {
         "rank": 21,
-        "jugador": "Francisca Garcia",
-        "pts": 3,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Cristián Olguín",
+        "pts": 3
       },
       {
         "rank": 22,
-        "jugador": "Carlos Ojeda",
-        "pts": 2,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Miguelñ Nuñez",
+        "pts": 3
       },
       {
         "rank": 23,
-        "jugador": "Aldana Vallejos",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 1
+        "jugador": "Rolando Soto",
+        "pts": 3
       },
       {
         "rank": 24,
-        "jugador": "Remy Marambio",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 1
+        "jugador": "Carlos Ojeda",
+        "pts": 2
       },
       {
         "rank": 25,
-        "jugador": "Matías Tófalos",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 2
+        "jugador": "Aldana Vallejos",
+        "pts": 1
       },
       {
         "rank": 26,
-        "jugador": "Jonathan Herrera",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Matías Tófalos",
+        "pts": 1
       },
       {
         "rank": 27,
-        "jugador": "María Eliana Torres",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 3
+        "jugador": "Jonathan Herrera",
+        "pts": 1
       },
       {
         "rank": 28,
         "jugador": "Diego Parra",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 4
+        "pts": 1
       },
       {
         "rank": 29,
         "jugador": "Annie Vergara",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 5
+        "pts": 1
       },
       {
         "rank": 30,
-        "jugador": "Tokmy",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 5
+        "jugador": "Nicolás Saavedra",
+        "pts": 1
       },
       {
         "rank": 31,
-        "jugador": "Nicolás Saavedra",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Remy",
+        "pts": 1
       },
       {
         "rank": 32,
-        "jugador": "Kyzo",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Joaquin",
+        "pts": 1
       },
       {
         "rank": 33,
-        "jugador": "Cris",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "María Eliana Torres",
+        "pts": 1
       },
       {
         "rank": 34,
-        "jugador": "Nico",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Tokmy",
+        "pts": 1
       },
       {
         "rank": 35,
-        "jugador": "Bruno Palma",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Kyzo",
+        "pts": 1
       },
       {
         "rank": 36,
-        "jugador": "Mauricio Quezada",
-        "pts": 1,
-        "eventos": 1,
-        "mejor_pos": 8
+        "jugador": "Cris",
+        "pts": 1
       },
       {
         "rank": 37,
-        "jugador": "Juan Francisco Guzman",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 6
+        "jugador": "Nico",
+        "pts": 1
       },
       {
         "rank": 38,
-        "jugador": "Ignacio Rojas",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 7
+        "jugador": "Bruno Palma",
+        "pts": 1
       },
       {
         "rank": 39,
+        "jugador": "Mauricio Quezada",
+        "pts": 1
+      },
+      {
+        "rank": 40,
+        "jugador": "Ignacio Rojas",
+        "pts": 0
+      },
+      {
+        "rank": 41,
         "jugador": "Alejandra Suárez",
-        "pts": 0,
-        "eventos": 1,
-        "mejor_pos": 8
-      }
-    ]
-  },
-  "ranking_liga_b2": {
-    "periodo": {
-      "inicio": "Thu Oct 01 2026 00:00:00 GMT-0300 (Chile Summer Time)",
-      "fin": "Sat Oct 31 2026 00:00:00 GMT-0300 (Chile Summer Time)",
-      "label": "Junio"
-    },
-    "tabla": [
-      {
-        "rank": 1,
-        "jugador": "Tomás Guzmán",
-        "pts": 30,
-        "eventos": 3,
-        "mejor_pos": 2
+        "pts": 0
       },
       {
-        "rank": 2,
-        "jugador": "Joaquín Cantero",
-        "pts": 28,
-        "eventos": 3,
-        "mejor_pos": 1
-      },
-      {
-        "rank": 3,
-        "jugador": "Ignacio Saavedra",
-        "pts": 18,
-        "eventos": 2,
-        "mejor_pos": 1
-      },
-      {
-        "rank": 4,
-        "jugador": "David Calisto",
-        "pts": 17,
-        "eventos": 2,
-        "mejor_pos": 3
-      },
-      {
-        "rank": 5,
-        "jugador": "Jesus Rodriguez",
-        "pts": 16,
-        "eventos": 2,
-        "mejor_pos": 3
-      },
-      {
-        "rank": 6,
-        "jugador": "Andrés Ramírez",
-        "pts": 13,
-        "eventos": 2,
-        "mejor_pos": 7
-      },
-      {
-        "rank": 7,
-        "jugador": "Alex Schultes",
-        "pts": 10,
-        "eventos": 1,
-        "mejor_pos": 1
-      },
-      {
-        "rank": 8,
-        "jugador": "Joaquín Saco",
-        "pts": 9,
-        "eventos": 1,
-        "mejor_pos": 3
-      },
-      {
-        "rank": 9,
-        "jugador": "Andrés Rodríguez",
-        "pts": 9,
-        "eventos": 1,
-        "mejor_pos": 5
-      },
-      {
-        "rank": 10,
-        "jugador": "Nicolás Colignon",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 5
-      },
-      {
-        "rank": 11,
-        "jugador": "Rodrigo Miranda",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 7
-      },
-      {
-        "rank": 12,
-        "jugador": "Nicolás Acuña",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 8
-      },
-      {
-        "rank": 13,
-        "jugador": "Fernando Yañez",
-        "pts": 7,
-        "eventos": 1,
-        "mejor_pos": 9
-      },
-      {
-        "rank": 14,
-        "jugador": "Simon Saldivia",
-        "pts": 5,
-        "eventos": 1,
-        "mejor_pos": 8
+        "rank": 42,
+        "jugador": "Juan Francisco Guzman",
+        "pts": 0
       }
     ]
   },
