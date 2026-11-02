@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T12:54:19.809Z",
+  "generado": "2026-11-02T12:56:58.362Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1674,6 +1674,27 @@
       "descripcion": "",
       "imagen_url": "",
       "imagen_url_horizontal": "2026-11-02T12:54:19.576Z",
+      "estado": "",
+      "producto_jumpseller_id": "",
+      "temporada": "",
+      "año": "",
+      "rondas": "",
+      "url_producto": ""
+    },
+    {
+      "id": "ev_1793624218120",
+      "nombre": "B2",
+      "tipo": "Liga Semanal Bracket 2 & Chill",
+      "formato": "2026-11-02T03:00:00.000Z",
+      "fecha": "19:00-22:00",
+      "hora_inicio": "",
+      "hora_fin": "",
+      "precio": "",
+      "cupos_total": "proximo",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "",
+      "imagen_url_horizontal": "2026-11-02T12:56:58.120Z",
       "estado": "",
       "producto_jumpseller_id": "",
       "temporada": "",
