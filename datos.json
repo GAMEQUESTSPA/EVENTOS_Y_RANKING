@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T20:12:36.756Z",
+  "generado": "2026-11-02T20:13:31.494Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1743,6 +1743,27 @@
       "año": "",
       "rondas": "",
       "url_producto": "https://gamequest.cl/torneo-semanal-bracket-3-showdown-martes-17-nov"
+    },
+    {
+      "id": "ev_1793650411354",
+      "nombre": "Torneo Semanal Bracket 3 Showdown",
+      "tipo": "B3",
+      "formato": "",
+      "fecha": "2026-11-24T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234745830/TORNEO_20B3_20SHOWDOWN_IG_20GENERAL_20POST.png?1793650360",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234745830/TORNEO_20B3_20SHOWDOWN-03.png?1793650360",
+      "estado": "proximo",
+      "producto_jumpseller_id": 1234745830,
+      "temporada": "",
+      "año": "",
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/torneo-semanal-bracket-3-showdown-martes-24-nov"
     }
   ],
   "rankings": {
