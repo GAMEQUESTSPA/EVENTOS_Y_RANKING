@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T17:41:52.339Z",
+  "generado": "2026-11-02T17:44:02.044Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1661,46 +1661,25 @@
       "url_producto": "https://gamequest.cl/roleplay-vaesen-el-baile-de-los-suenos-viernes-30-oct"
     },
     {
-      "id": "ev_1793641065636",
-      "nombre": "B2",
-      "tipo": "Liga Bracket 2 & Chill",
-      "formato": "2026-11-02T03:00:00.000Z",
+      "id": "",
+      "nombre": "",
+      "tipo": "",
+      "formato": "",
       "fecha": "",
       "hora_inicio": "",
       "hora_fin": "",
       "precio": "",
-      "cupos_total": "proximo",
+      "cupos_total": "",
       "cupos_disponibles": "",
       "descripcion": "",
       "imagen_url": "",
-      "imagen_url_horizontal": "2026-11-02T17:37:45.636Z",
+      "imagen_url_horizontal": "",
       "estado": "",
       "producto_jumpseller_id": "",
       "temporada": "",
       "año": "",
       "rondas": "",
       "url_producto": ""
-    },
-    {
-      "id": "ev_1793641312158",
-      "nombre": "TEST_DIAGNOSTICO",
-      "tipo": "Test",
-      "formato": "TestFormato",
-      "fecha": "2099-01-01T03:00:00.000Z",
-      "hora_inicio": "1899-12-30T04:42:45.000Z",
-      "hora_fin": "1899-12-30T04:43:45.000Z",
-      "precio": 1,
-      "cupos_total": 1,
-      "cupos_disponibles": 1,
-      "descripcion": "Test diagnostico",
-      "imagen_url": "http://test.com/img.jpg",
-      "imagen_url_horizontal": "http://test.com/imgh.jpg",
-      "estado": "proximo",
-      "producto_jumpseller_id": 99999,
-      "temporada": "TEST",
-      "año": 2099,
-      "rondas": 0,
-      "url_producto": "http://test.com"
     }
   ],
   "rankings": {
