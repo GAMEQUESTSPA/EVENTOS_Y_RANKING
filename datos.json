@@ -1,14 +1,14 @@
 {
-  "generado": "2026-11-02T23:58:09.308Z",
+  "generado": "2026-11-03T00:44:16.303Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "Commander Bracket 2 - 2 rondas 70 minutos",
-      "fecha": "2026-05-04",
-      "hora_inicio": "19:00",
-      "hora_fin": "21:30",
+      "fecha": "2026-05-04T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 0,
@@ -27,9 +27,9 @@
       "nombre": "Liga Semanal Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "Commander Bracket 3 - 3 rondas 50 minutos",
-      "fecha": "2026-05-06",
-      "hora_inicio": "19:00",
-      "hora_fin": "21:30",
+      "fecha": "2026-05-06T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -48,9 +48,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "Commander Bracket 2 - 2 rondas - 70 minutos",
-      "fecha": "2026-05-11",
-      "hora_inicio": "19:00",
-      "hora_fin": "21:30",
+      "fecha": "2026-05-11T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 4,
@@ -69,9 +69,9 @@
       "nombre": "Liga Semanal Bracket 4 Smackdown",
       "tipo": "Liga B4",
       "formato": "Commander Bracket 4 Smackdown",
-      "fecha": "2026-05-07",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-05-07T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 11,
@@ -90,9 +90,9 @@
       "nombre": "Liga semanal Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "Commander Bracket 3 Showdown",
-      "fecha": "2026-05-13",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-05-13T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -111,9 +111,9 @@
       "nombre": "Liga Bracket 4 Smackdown",
       "tipo": "Liga B4",
       "formato": "Commander Bracket 4",
-      "fecha": "2026-05-14",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-05-14T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -132,9 +132,9 @@
       "nombre": "Torneo Pauper: Super Clash",
       "tipo": "Pauper",
       "formato": "Pauper - 4 rondas - top 4",
-      "fecha": "2026-05-24",
-      "hora_inicio": "10:00",
-      "hora_fin": "17:00",
+      "fecha": "2026-05-24T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T14:42:45.000Z",
+      "hora_fin": "1899-12-30T21:42:45.000Z",
       "precio": 15000,
       "cupos_total": 12,
       "cupos_disponibles": 1,
@@ -153,9 +153,9 @@
       "nombre": "Liga Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "Bracket 2",
-      "fecha": "2026-05-18",
-      "hora_inicio": "19:00",
-      "hora_fin": "21:30",
+      "fecha": "2026-05-18T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 0,
@@ -174,9 +174,9 @@
       "nombre": "Liga Bracket 2 & Chill (Lunes)",
       "tipo": "Liga B2",
       "formato": "Commander Bracket 2 - 2 rondas - 70 minutos",
-      "fecha": "2026-05-25",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-05-25T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 0,
@@ -195,9 +195,9 @@
       "nombre": "Liga Bracket 3 Showdown (Miércoles)",
       "tipo": "Liga B3",
       "formato": "Commander Bracket 3",
-      "fecha": "2026-05-27",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-05-27T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -216,9 +216,9 @@
       "nombre": "Liga Bracket 4 Smackdown (Jueves)",
       "tipo": "Liga B4",
       "formato": "Commander Bracket 4",
-      "fecha": "2026-05-28",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-05-28T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -237,9 +237,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "Commander Bracket 2 - 2 rondas - 70 minutos",
-      "fecha": "2026-06-08",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-08T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 3,
@@ -258,9 +258,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown",
       "tipo": "B3 Showdown",
       "formato": "Commander Bracket 3",
-      "fecha": "2026-06-09",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-09T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -279,9 +279,9 @@
       "nombre": "Liga Semanal Bracket 4 Smackdown",
       "tipo": "Liga B4",
       "formato": "Commander Bracket 4",
-      "fecha": "2026-06-11",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-11T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -300,9 +300,9 @@
       "nombre": "Torneo Pauper: Super Clash II",
       "tipo": "Pauper",
       "formato": "Pauper - 4 rondas - top 4",
-      "fecha": "2026-06-28",
-      "hora_inicio": "11:00",
-      "hora_fin": "15:00",
+      "fecha": "2026-06-28T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T15:42:45.000Z",
+      "hora_fin": "1899-12-30T19:42:45.000Z",
       "precio": 15000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -321,9 +321,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "Commander Bracket 2 - 2 rondas - 70 minutos",
-      "fecha": "2026-06-15",
-      "hora_inicio": "19:00",
-      "hora_fin": "21:30",
+      "fecha": "2026-06-15T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 2,
@@ -342,9 +342,9 @@
       "nombre": "Escuelita Magic Junio (¡Gratis!)",
       "tipo": "Evento Especial",
       "formato": "¡Aprende a jugar!",
-      "fecha": "2026-06-18",
-      "hora_inicio": "19:00",
-      "hora_fin": "21:30",
+      "fecha": "2026-06-18T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
       "precio": 0,
       "cupos_total": 12,
       "cupos_disponibles": 0,
@@ -363,9 +363,9 @@
       "nombre": "Torneo Jumpstart: Marvel Heroes",
       "tipo": "Torneo Jumpstart",
       "formato": "Torneo Jumpstart",
-      "fecha": "2026-06-26",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-26T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 18000,
       "cupos_total": 12,
       "cupos_disponibles": 3,
@@ -384,9 +384,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (22 jun)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-06-22",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-22T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 9,
@@ -405,9 +405,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (29 jun)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-06-29",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-29T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 1,
@@ -426,9 +426,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (16 jun)",
       "tipo": "Torneo B3 Semanal",
       "formato": "EDH B3",
-      "fecha": "2026-06-16",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-16T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 6,
@@ -447,9 +447,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (23 jun)",
       "tipo": "Torneo B3 Semanal",
       "formato": "EDH B3",
-      "fecha": "2026-06-23",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-23T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -468,9 +468,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (30 jun)",
       "tipo": "Torneo B3 Semanal",
       "formato": "EDH B3",
-      "fecha": "2026-06-30",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-06-30T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -489,9 +489,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (06-07-26)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-07-06",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-06T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 2,
@@ -510,9 +510,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (13-07-26)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-07-13",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-13T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -531,9 +531,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (20-07-26)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-07-20",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-20T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -552,9 +552,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (27-07-26)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-07-27",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-27T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 2,
@@ -573,9 +573,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (07-07-26)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-07-07",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-07T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -594,9 +594,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (14-07-26)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-07-14",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-14T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 7,
@@ -615,9 +615,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (21-07-26)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-07-21",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-21T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 3,
@@ -636,9 +636,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (28-07-26)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-07-28",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-28T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 11,
@@ -657,9 +657,9 @@
       "nombre": "Escuelita Magic Gratuita (15-07-26)",
       "tipo": "Evento Especial",
       "formato": "Escuelita Magic (aprende a jugar)",
-      "fecha": "2026-07-15",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-15T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 0,
       "cupos_total": 12,
       "cupos_disponibles": 0,
@@ -678,9 +678,9 @@
       "nombre": "Escuelita Magic Gratuita (29-07-26)",
       "tipo": "Evento Especial",
       "formato": "Escuelita Magic (aprende a jugar)",
-      "fecha": "2026-07-29",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-29T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 0,
       "cupos_total": 12,
       "cupos_disponibles": 9,
@@ -699,9 +699,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (09-07-26)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-07-09",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-09T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 3,
@@ -720,9 +720,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (16-07-26)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-07-16",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-16T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 9,
@@ -741,9 +741,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (23-07-26)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-07-23",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-23T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 7,
@@ -762,9 +762,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (30-07-26)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-07-30",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-30T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 9,
@@ -783,9 +783,9 @@
       "nombre": "Torneo Jumpstart: Marvel Super Heroes",
       "tipo": "Torneo Jumpstart",
       "formato": "Jumpstart",
-      "fecha": "2026-07-31",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-07-31T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 19990,
       "cupos_total": 12,
       "cupos_disponibles": 9,
@@ -804,9 +804,9 @@
       "nombre": "Torneo Pauper: Super Clash III (2-ago)",
       "tipo": "Pauper",
       "formato": "Pauper 1vs1",
-      "fecha": "2026-08-02",
-      "hora_inicio": "11:00",
-      "hora_fin": "16:00",
+      "fecha": "2026-08-02T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T15:42:45.000Z",
+      "hora_fin": "1899-12-30T20:42:45.000Z",
       "precio": 15000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -825,9 +825,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (3 AGO)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-08-03",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-03T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -846,9 +846,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (10-AGO)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-08-10",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-10T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 4,
@@ -867,9 +867,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (17-AGO)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-08-17",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-17T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 7,
@@ -888,9 +888,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (24-AGO)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-08-24",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-24T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 7,
@@ -909,9 +909,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (31-AGO)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-08-31",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-31T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -930,9 +930,9 @@
       "nombre": "Torneo Bracket 3 Showdown (4-AGO)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-08-04",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-04T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 6,
@@ -951,9 +951,9 @@
       "nombre": "Torneo Bracket 3 Showdown (11-AGO)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-08-11",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-11T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -972,9 +972,9 @@
       "nombre": "Torneo Bracket 3 Showdown (18-AGO)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-08-18",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-18T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 7,
@@ -993,9 +993,9 @@
       "nombre": "Torneo Bracket 3 Showdown (25-AGO)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-08-25",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-25T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 10,
@@ -1014,9 +1014,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (6-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-08-06",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-06T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 9,
@@ -1035,9 +1035,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (13-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-08-13",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-13T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -1056,9 +1056,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (20-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-08-20",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-20T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 0,
@@ -1077,9 +1077,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (27-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-08-27",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-27T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 6,
@@ -1098,9 +1098,9 @@
       "nombre": "Evento Precon: Planechase",
       "tipo": "Evento Especial",
       "formato": "EDH PRECON",
-      "fecha": "2026-08-14",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-08-14T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -1119,9 +1119,9 @@
       "nombre": "Liga Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-09-07",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-07T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 3,
@@ -1140,9 +1140,9 @@
       "nombre": "Liga Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-09-14",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-14T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -1161,9 +1161,9 @@
       "nombre": "Liga Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-09-21",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-21T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -1182,9 +1182,9 @@
       "nombre": "Liga Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-09-28",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-28T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 4,
@@ -1203,9 +1203,9 @@
       "nombre": "Torneo Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-09-01",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-01T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 6,
@@ -1224,9 +1224,9 @@
       "nombre": "Torneo Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-09-08",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-08T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 6,
@@ -1245,9 +1245,9 @@
       "nombre": "Torneo Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-09-15",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-15T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -1266,9 +1266,9 @@
       "nombre": "Torneo Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-09-22",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-22T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -1287,9 +1287,9 @@
       "nombre": "Torneo Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-09-29",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-29T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -1308,9 +1308,9 @@
       "nombre": "Torneo Semanal Precon",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-09-03",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-03T04:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 7,
@@ -1329,9 +1329,9 @@
       "nombre": "Torneo Semanal Precon",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-09-10",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-10T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -1350,9 +1350,9 @@
       "nombre": "Torneo Semanal Precon",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-09-24",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-24T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 5,
@@ -1371,9 +1371,9 @@
       "nombre": "Torneo Especial EDH: Tribal Wars (17 SEPT)",
       "tipo": "Evento Especial",
       "formato": "COMMANDER TRIBAL",
-      "fecha": "2026-09-17",
-      "hora_inicio": "15:30",
-      "hora_fin": "22:00",
+      "fecha": "2026-09-17T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T20:12:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 10000,
       "cupos_total": 12,
       "cupos_disponibles": 6,
@@ -1392,9 +1392,9 @@
       "nombre": "Torneo Semanal Precon (1 OCT)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-10-01",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-01T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 2,
@@ -1413,9 +1413,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-10-05",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-05T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 8,
@@ -1434,9 +1434,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-10-06",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-06T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 3,
@@ -1455,9 +1455,9 @@
       "nombre": "Torneo Semanal Precon (8-OCT)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-10-08",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-08T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 11,
@@ -1476,9 +1476,9 @@
       "nombre": "Torneo Bracket 3 Showdown",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-10-13",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-13T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1497,9 +1497,9 @@
       "nombre": "Torneo Semanal Precon (15-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-10-15",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-15T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1518,9 +1518,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (22-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-10-22",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-22T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 3988,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1539,9 +1539,9 @@
       "nombre": "Torneo Semanal Precon Smackdown (29-AGO)",
       "tipo": "Torneo Precon",
       "formato": "EDH PRECON",
-      "fecha": "2026-10-29",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-29T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 3988,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1560,9 +1560,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown (27 OCT)",
       "tipo": "Liga B3",
       "formato": "EDH B3",
-      "fecha": "2026-10-27",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-27T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 5000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1581,9 +1581,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (19 OCT)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-10-19",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-19T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1602,9 +1602,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill (19 OCT)",
       "tipo": "Liga B2",
       "formato": "EDH B2",
-      "fecha": "2026-10-26",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-26T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1623,9 +1623,9 @@
       "nombre": "Roleplay: Pathfinder 2E – Sombras de Guerra (Viernes 30 OCT)",
       "tipo": "Evento Especial",
       "formato": "Pathfinder 2e",
-      "fecha": "2026-10-30",
-      "hora_inicio": "18:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-30T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 6000,
       "cupos_total": 4,
       "cupos_disponibles": 4,
@@ -1644,9 +1644,9 @@
       "nombre": "Roleplay: Vaesen – El Baile de los Sueños (Viernes 30 OCT)",
       "tipo": "Evento Especial",
       "formato": "Vaesen",
-      "fecha": "2026-10-30",
-      "hora_inicio": "18:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-10-30T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 6000,
       "cupos_total": 4,
       "cupos_disponibles": 4,
@@ -1665,9 +1665,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "COMMANDER BRACKET 2",
       "formato": "EDH B2",
-      "fecha": "2026-11-02",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-02T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1686,9 +1686,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown",
       "tipo": "COMMANDER BRACKET 3",
       "formato": "EDH B3",
-      "fecha": "2026-11-03",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-03T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1707,9 +1707,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown",
       "tipo": "COMMANDER BRACKET 3",
       "formato": "EDH B3",
-      "fecha": "2026-11-10",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-10T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1728,9 +1728,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown",
       "tipo": "COMMANDER BRACKET 3",
       "formato": "EDH B3",
-      "fecha": "2026-11-17",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-17T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1749,9 +1749,9 @@
       "nombre": "Torneo Semanal Bracket 3 Showdown",
       "tipo": "COMMANDER BRACKET 3",
       "formato": "EDH B3",
-      "fecha": "2026-11-24",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-24T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1770,9 +1770,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "COMMANDER BRACKET 2",
       "formato": "EDH B2",
-      "fecha": "2026-11-09",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-09T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1791,9 +1791,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "COMMANDER BRACKET 2",
       "formato": "EDH B2",
-      "fecha": "2026-11-16",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-16T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1812,9 +1812,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "COMMANDER BRACKET 2",
       "formato": "EDH B2",
-      "fecha": "2026-11-23",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-23T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1833,9 +1833,9 @@
       "nombre": "Liga Semanal Bracket 2 & Chill",
       "tipo": "COMMANDER BRACKET 2",
       "formato": "EDH B2",
-      "fecha": "2026-11-30",
-      "hora_inicio": "19:00",
-      "hora_fin": "22:00",
+      "fecha": "2026-11-30T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
       "precio": 4000,
       "cupos_total": 12,
       "cupos_disponibles": 12,
@@ -1848,6 +1848,5981 @@
       "año": 2026,
       "rondas": 2,
       "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-30-nov"
+    },
+    {
+      "id": "ev_1793666655057",
+      "nombre": "Commander Casual",
+      "tipo": "Commander Casuales",
+      "formato": "",
+      "fecha": "2026-11-05T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234754969/EDH_20CASUALES-03.png?1793666632",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234754969/EDH_20CASUALES-02.png?1793666632",
+      "estado": "proximo",
+      "producto_jumpseller_id": 1234754969,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/commander-casual-game-quest"
+    }
+  ],
+  "rankings": {
+    "general": [
+      {
+        "rank": 1,
+        "jugador": "Joaquín Cantero",
+        "pts": 1120,
+        "eventos": 45,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 2,
+        "jugador": "Tomás Guzmán",
+        "pts": 420,
+        "eventos": 33,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 3,
+        "jugador": "David Calisto",
+        "pts": 385,
+        "eventos": 20,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 4,
+        "jugador": "Matías Salgado",
+        "pts": 370,
+        "eventos": 9,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 5,
+        "jugador": "Emilio Silva",
+        "pts": 315,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 6,
+        "jugador": "María Eliana Torres",
+        "pts": 275,
+        "eventos": 15,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 7,
+        "jugador": "Manuel Méndez",
+        "pts": 270,
+        "eventos": 9,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 8,
+        "jugador": "Alejandro Canales",
+        "pts": 245,
+        "eventos": 14,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 9,
+        "jugador": "Diego Aravena",
+        "pts": 245,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 10,
+        "jugador": "Andrés Rodríguez",
+        "pts": 215,
+        "eventos": 7,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 11,
+        "jugador": "Aldo González",
+        "pts": 200,
+        "eventos": 7,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 12,
+        "jugador": "Ignacio Saavedra",
+        "pts": 160,
+        "eventos": 11,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 13,
+        "jugador": "Alex Schultes",
+        "pts": 145,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 14,
+        "jugador": "Erick Farfán",
+        "pts": 145,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 15,
+        "jugador": "Jorge Aguirre",
+        "pts": 115,
+        "eventos": 6,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 16,
+        "jugador": "Andrés Ramírez",
+        "pts": 105,
+        "eventos": 14,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 17,
+        "jugador": "Oscar Donoso",
+        "pts": 100,
+        "eventos": 6,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 18,
+        "jugador": "Marco Camargo",
+        "pts": 100,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 19,
+        "jugador": "Ignacio Maldonado",
+        "pts": 85,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 20,
+        "jugador": "Felipe Concha",
+        "pts": 75,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 21,
+        "jugador": "Italo Rojas",
+        "pts": 70,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 22,
+        "jugador": "David Silva",
+        "pts": 65,
+        "eventos": 11,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 23,
+        "jugador": "Raúl Torreblanca",
+        "pts": 65,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 24,
+        "jugador": "Freddy Fuentes",
+        "pts": 65,
+        "eventos": 4,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 25,
+        "jugador": "Nicolás Colignon",
+        "pts": 60,
+        "eventos": 5,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 26,
+        "jugador": "Eduardo Mena",
+        "pts": 60,
+        "eventos": 4,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 27,
+        "jugador": "Jean Paul Larenas",
+        "pts": 60,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 28,
+        "jugador": "Tomás Ibañez",
+        "pts": 60,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 29,
+        "jugador": "Francisca Araus",
+        "pts": 50,
+        "eventos": 6,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 30,
+        "jugador": "Remy Marambio",
+        "pts": 50,
+        "eventos": 3,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 31,
+        "jugador": "Mateo De Solminihac",
+        "pts": 50,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 32,
+        "jugador": "Aldana Vallejos",
+        "pts": 50,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 33,
+        "jugador": "Agustin Pavez",
+        "pts": 50,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 34,
+        "jugador": "Maycol Bravo",
+        "pts": 50,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 35,
+        "jugador": "Bruno Palma",
+        "pts": 35,
+        "eventos": 3,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 36,
+        "jugador": "Claudio Morales",
+        "pts": 35,
+        "eventos": 3,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 37,
+        "jugador": "Carlos Retamal",
+        "pts": 35,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 38,
+        "jugador": "Matías Tófalos",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 39,
+        "jugador": "Diego Pradenas",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 40,
+        "jugador": "Alejandro Cuevas",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 41,
+        "jugador": "Maximiliano Aguilera",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 42,
+        "jugador": "Juan Carlos Bodoque",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 43,
+        "jugador": "Emilio Gonzalez",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 44,
+        "jugador": "Emilio Noguera",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 45,
+        "jugador": "Diego Vegas",
+        "pts": 35,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 46,
+        "jugador": "Javiera Ibañez",
+        "pts": 25,
+        "eventos": 3,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 47,
+        "jugador": "Alex Inzunza",
+        "pts": 25,
+        "eventos": 3,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 48,
+        "jugador": "Jesus Rodriguez",
+        "pts": 25,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 49,
+        "jugador": "Sebastián Sánchez",
+        "pts": 25,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 50,
+        "jugador": "Andrew Starr",
+        "pts": 25,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 51,
+        "jugador": "Miguel Ángel Nuñez",
+        "pts": 25,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 52,
+        "jugador": "Jonathan Herrera",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 53,
+        "jugador": "Joaquín Saco",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 54,
+        "jugador": "Alejandro de la Fuente",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 55,
+        "jugador": "Andrés Cantuarias",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 56,
+        "jugador": "Nicolas Rademacher",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 57,
+        "jugador": "Jukin",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 58,
+        "jugador": "Francisco Otarola",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 59,
+        "jugador": "Nicolás Rosas",
+        "pts": 25,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 60,
+        "jugador": "Octavio Silva",
+        "pts": 15,
+        "eventos": 4,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 61,
+        "jugador": "Francisco Colipi",
+        "pts": 15,
+        "eventos": 2,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 62,
+        "jugador": "Sebastián Pacheco",
+        "pts": 15,
+        "eventos": 2,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 63,
+        "jugador": "Guido Bascur",
+        "pts": 15,
+        "eventos": 2,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 64,
+        "jugador": "Diego Parra",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 65,
+        "jugador": "Cristóbal Casassus",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 66,
+        "jugador": "Peter Salinas",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 67,
+        "jugador": "Mario Barrios",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 68,
+        "jugador": "Vicente Aguilera",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 69,
+        "jugador": "Panchitow",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 70,
+        "jugador": "Pedro Solano",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 71,
+        "jugador": "Alfonso Aguilar",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 72,
+        "jugador": "Claudio Celis",
+        "pts": 15,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 73,
+        "jugador": "Javier Gonzalez",
+        "pts": 0,
+        "eventos": 3,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 74,
+        "jugador": "Cristóbal Treupil",
+        "pts": 0,
+        "eventos": 2,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 75,
+        "jugador": "Juan Francisco Guzman",
+        "pts": 0,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 76,
+        "jugador": "Maykol Ramírez",
+        "pts": 0,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 77,
+        "jugador": "Vicente Carmi",
+        "pts": 0,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 78,
+        "jugador": "Ignacio Ramirez",
+        "pts": 0,
+        "eventos": 2,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 79,
+        "jugador": "Annie Vergara",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 80,
+        "jugador": "Tokmy",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 81,
+        "jugador": "Reptinoide",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 82,
+        "jugador": "John Chaves",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 83,
+        "jugador": "Joaquin Francis",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 84,
+        "jugador": "Tomás Jefecito",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 85,
+        "jugador": "Jose Gonzalez",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 86,
+        "jugador": "Nicolás Saavedra",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 87,
+        "jugador": "Kyzo",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 88,
+        "jugador": "Pancho",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 89,
+        "jugador": "Joseph Lamartine",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 90,
+        "jugador": "Valentina Soto",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 91,
+        "jugador": "Nicolás Morales Macaya",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 92,
+        "jugador": "Cristián Olguín",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 93,
+        "jugador": "Fabián Soto",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 94,
+        "jugador": "Rolando Soto",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 95,
+        "jugador": "Ignacio Rojas",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 96,
+        "jugador": "Rodrigo Miranda",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 97,
+        "jugador": "Christopher Cortez",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 98,
+        "jugador": "Cris",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 99,
+        "jugador": "Agustin Sepulveda",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 100,
+        "jugador": "Francisca Garcia",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 101,
+        "jugador": "Jaime Mercado",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 102,
+        "jugador": "Carlos Ojeda",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 103,
+        "jugador": "Alejandra Suárez",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 104,
+        "jugador": "Simon Saldivia",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 105,
+        "jugador": "Nicolás Acuña",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 106,
+        "jugador": "Pedro Vargas",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 107,
+        "jugador": "Nico",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 108,
+        "jugador": "Marcelo Montecinos",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 109,
+        "jugador": "Jorge Escobar",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 110,
+        "jugador": "Mauricio Quezada",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 111,
+        "jugador": "Fernando Yañez",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 112,
+        "jugador": "Matias Mocanu",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 113,
+        "jugador": "Fernando Molina",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 114,
+        "jugador": "Ignacio Herrera",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 10
+      },
+      {
+        "rank": 115,
+        "jugador": "Benjamín Opazo",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 10
+      },
+      {
+        "rank": 116,
+        "jugador": "Gloria Bravo",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 10
+      },
+      {
+        "rank": 117,
+        "jugador": "Bastian Paredes",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 11
+      }
+    ],
+    "B2": [
+      {
+        "rank": 1,
+        "jugador": "David Calisto",
+        "pts": 138,
+        "eventos": 19,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 2,
+        "jugador": "Joaquín Cantero",
+        "pts": 132,
+        "eventos": 17,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 3,
+        "jugador": "Tomás Guzmán",
+        "pts": 104,
+        "eventos": 15,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 4,
+        "jugador": "Alex Schultes",
+        "pts": 75,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 5,
+        "jugador": "Ignacio Saavedra",
+        "pts": 64,
+        "eventos": 9,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 6,
+        "jugador": "Andrés Ramírez",
+        "pts": 56,
+        "eventos": 11,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 7,
+        "jugador": "Aldo González",
+        "pts": 54,
+        "eventos": 7,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 8,
+        "jugador": "María Eliana Torres",
+        "pts": 44,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 9,
+        "jugador": "Freddy Fuentes",
+        "pts": 33,
+        "eventos": 4,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 10,
+        "jugador": "Marco Camargo",
+        "pts": 29,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 11,
+        "jugador": "Nicolás Colignon",
+        "pts": 22,
+        "eventos": 3,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 12,
+        "jugador": "Sebastián Sánchez",
+        "pts": 18,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 13,
+        "jugador": "Jesus Rodriguez",
+        "pts": 16,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 14,
+        "jugador": "Sebastián Pacheco",
+        "pts": 16,
+        "eventos": 2,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 15,
+        "jugador": "Erick Farfán",
+        "pts": 15,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 16,
+        "jugador": "Cristóbal Treupil",
+        "pts": 13,
+        "eventos": 2,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 17,
+        "jugador": "Matías Salgado",
+        "pts": 12,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 18,
+        "jugador": "Bruno Palma",
+        "pts": 12,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 19,
+        "jugador": "Francisca Araus",
+        "pts": 11,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 20,
+        "jugador": "Andrés Cantuarias",
+        "pts": 11,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 21,
+        "jugador": "Maykol Ramírez",
+        "pts": 10,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 22,
+        "jugador": "Alex Inzunza",
+        "pts": 9,
+        "eventos": 3,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 23,
+        "jugador": "Javiera Ibañez",
+        "pts": 9,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 24,
+        "jugador": "Vicente Carmi",
+        "pts": 9,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 25,
+        "jugador": "Joaquín Saco",
+        "pts": 9,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 26,
+        "jugador": "Andrés Rodríguez",
+        "pts": 9,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 27,
+        "jugador": "Eduardo Mena",
+        "pts": 9,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 28,
+        "jugador": "Javier Gonzalez",
+        "pts": 8,
+        "eventos": 3,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 29,
+        "jugador": "Panchitow",
+        "pts": 8,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 30,
+        "jugador": "Claudio Morales",
+        "pts": 7,
+        "eventos": 3,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 31,
+        "jugador": "Joseph Lamartine",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 32,
+        "jugador": "Rodrigo Miranda",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 33,
+        "jugador": "Nicolás Acuña",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 34,
+        "jugador": "Fernando Yañez",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 35,
+        "jugador": "Simon Saldivia",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 36,
+        "jugador": "Diego Vegas",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 37,
+        "jugador": "Alejandro Canales",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 38,
+        "jugador": "Benjamín Opazo",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 10
+      },
+      {
+        "rank": 39,
+        "jugador": "Jose Gonzalez",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 40,
+        "jugador": "Juan Francisco Guzman",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 12
+      },
+      {
+        "rank": 41,
+        "jugador": "Nicolás Rosas",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 42,
+        "jugador": "Pedro Solano",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 43,
+        "jugador": "Valentina Soto",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 44,
+        "jugador": "Fernando Molina",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 45,
+        "jugador": "Jaime Mercado",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 46,
+        "jugador": "Marcelo Montecinos",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 47,
+        "jugador": "Bastian Paredes",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 11
+      },
+      {
+        "rank": 48,
+        "jugador": "Pedro Vargas",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 49,
+        "jugador": "Jorge Escobar",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 50,
+        "jugador": "Gloria Bravo",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 10
+      }
+    ],
+    "B3": [
+      {
+        "rank": 1,
+        "jugador": "Joaquín Cantero",
+        "pts": 59,
+        "eventos": 15,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 2,
+        "jugador": "Emilio Silva",
+        "pts": 54,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 3,
+        "jugador": "Manuel Méndez",
+        "pts": 48,
+        "eventos": 9,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 4,
+        "jugador": "Alejandro Canales",
+        "pts": 30,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 5,
+        "jugador": "Andrés Rodríguez",
+        "pts": 26,
+        "eventos": 5,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 6,
+        "jugador": "David Silva",
+        "pts": 16,
+        "eventos": 11,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 7,
+        "jugador": "Mateo De Solminihac",
+        "pts": 16,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 8,
+        "jugador": "Ignacio Maldonado",
+        "pts": 14,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 9,
+        "jugador": "Tomás Guzmán",
+        "pts": 12,
+        "eventos": 6,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 10,
+        "jugador": "Jorge Aguirre",
+        "pts": 10,
+        "eventos": 4,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 11,
+        "jugador": "Maycol Bravo",
+        "pts": 9,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 12,
+        "jugador": "Emilio Noguera",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 13,
+        "jugador": "Tomás Ibañez",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 14,
+        "jugador": "Octavio Silva",
+        "pts": 4,
+        "eventos": 3,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 15,
+        "jugador": "Ignacio Ramirez",
+        "pts": 4,
+        "eventos": 2,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 16,
+        "jugador": "Juan Carlos Bodoque",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 17,
+        "jugador": "Javiera Ibañez",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 18,
+        "jugador": "Remy Marambio",
+        "pts": 3,
+        "eventos": 2,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 19,
+        "jugador": "Alejandro Cuevas",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 20,
+        "jugador": "María Eliana Torres",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 21,
+        "jugador": "Eduardo Mena",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 22,
+        "jugador": "Alejandro de la Fuente",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 23,
+        "jugador": "Francisca Araus",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 24,
+        "jugador": "Guido Bascur",
+        "pts": 1,
+        "eventos": 2,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 25,
+        "jugador": "Bruno Palma",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 26,
+        "jugador": "John Chaves",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 27,
+        "jugador": "Tomás Jefecito",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 28,
+        "jugador": "Fabián Soto",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 29,
+        "jugador": "Agustin Sepulveda",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 30,
+        "jugador": "Pancho",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 31,
+        "jugador": "Oscar Donoso",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      }
+    ],
+    "Precon": [
+      {
+        "rank": 1,
+        "jugador": "Matías Salgado",
+        "pts": 51,
+        "eventos": 8,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 2,
+        "jugador": "Diego Aravena",
+        "pts": 48,
+        "eventos": 10,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 3,
+        "jugador": "Joaquín Cantero",
+        "pts": 24,
+        "eventos": 9,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 4,
+        "jugador": "Tomás Guzmán",
+        "pts": 23,
+        "eventos": 10,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 5,
+        "jugador": "María Eliana Torres",
+        "pts": 18,
+        "eventos": 9,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 6,
+        "jugador": "Raúl Torreblanca",
+        "pts": 16,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 7,
+        "jugador": "Oscar Donoso",
+        "pts": 13,
+        "eventos": 5,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 8,
+        "jugador": "Jean Paul Larenas",
+        "pts": 9,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 9,
+        "jugador": "Agustin Pavez",
+        "pts": 8,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 10,
+        "jugador": "Maximiliano Aguilera",
+        "pts": 8,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 11,
+        "jugador": "Andrew Starr",
+        "pts": 6,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 12,
+        "jugador": "Francisco Colipi",
+        "pts": 6,
+        "eventos": 2,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 13,
+        "jugador": "Diego Pradenas",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 14,
+        "jugador": "Nicolas Rademacher",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 15,
+        "jugador": "Jukin",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 16,
+        "jugador": "Cristóbal Casassus",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 17,
+        "jugador": "Peter Salinas",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 18,
+        "jugador": "Francisca Araus",
+        "pts": 4,
+        "eventos": 3,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 19,
+        "jugador": "Andrés Ramírez",
+        "pts": 4,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 20,
+        "jugador": "Nicolás Colignon",
+        "pts": 4,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 21,
+        "jugador": "Italo Rojas",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 22,
+        "jugador": "Alejandro Canales",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 23,
+        "jugador": "David Calisto",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 24,
+        "jugador": "Ignacio Saavedra",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 25,
+        "jugador": "Octavio Silva",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 26,
+        "jugador": "Francisco Otarola",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 27,
+        "jugador": "Mario Barrios",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 28,
+        "jugador": "Reptinoide",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 29,
+        "jugador": "Christopher Cortez",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 30,
+        "jugador": "Matias Mocanu",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 31,
+        "jugador": "Ignacio Herrera",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 10
+      },
+      {
+        "rank": 32,
+        "jugador": "Vicente Aguilera",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 4
+      }
+    ],
+    "Unico": [
+      {
+        "rank": 1,
+        "jugador": "Joaquín Cantero",
+        "pts": 20,
+        "eventos": 4,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 2,
+        "jugador": "Alejandro Canales",
+        "pts": 18,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 3,
+        "jugador": "Felipe Concha",
+        "pts": 18,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 4,
+        "jugador": "Jorge Aguirre",
+        "pts": 10,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 5,
+        "jugador": "Eduardo Mena",
+        "pts": 9,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 6,
+        "jugador": "Miguel Ángel Nuñez",
+        "pts": 9,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 7,
+        "jugador": "Carlos Retamal",
+        "pts": 6,
+        "eventos": 2,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 8,
+        "jugador": "Emilio Gonzalez",
+        "pts": 6,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 9,
+        "jugador": "Tomás Ibañez",
+        "pts": 6,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 10,
+        "jugador": "Alfonso Aguilar",
+        "pts": 6,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 11,
+        "jugador": "Claudio Celis",
+        "pts": 6,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 12,
+        "jugador": "Tomás Guzmán",
+        "pts": 5,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 13,
+        "jugador": "Italo Rojas",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 14,
+        "jugador": "Andrés Rodríguez",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 15,
+        "jugador": "Andrés Ramírez",
+        "pts": 4,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 16,
+        "jugador": "Joaquin Francis",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 17,
+        "jugador": "Ignacio Saavedra",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 18,
+        "jugador": "Nicolás Morales Macaya",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 19,
+        "jugador": "Cristián Olguín",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 20,
+        "jugador": "Rolando Soto",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 21,
+        "jugador": "Francisca Garcia",
+        "pts": 3,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 22,
+        "jugador": "Carlos Ojeda",
+        "pts": 2,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 23,
+        "jugador": "Aldana Vallejos",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 24,
+        "jugador": "Remy Marambio",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 25,
+        "jugador": "Matías Tófalos",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 26,
+        "jugador": "Jonathan Herrera",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 27,
+        "jugador": "María Eliana Torres",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 28,
+        "jugador": "Diego Parra",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 4
+      },
+      {
+        "rank": 29,
+        "jugador": "Annie Vergara",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 30,
+        "jugador": "Tokmy",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 31,
+        "jugador": "Nicolás Saavedra",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 32,
+        "jugador": "Kyzo",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 33,
+        "jugador": "Cris",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 34,
+        "jugador": "Nico",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 35,
+        "jugador": "Bruno Palma",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 36,
+        "jugador": "Mauricio Quezada",
+        "pts": 1,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 37,
+        "jugador": "Juan Francisco Guzman",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 6
+      },
+      {
+        "rank": 38,
+        "jugador": "Ignacio Rojas",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 39,
+        "jugador": "Alejandra Suárez",
+        "pts": 0,
+        "eventos": 1,
+        "mejor_pos": 8
+      }
+    ]
+  },
+  "ranking_liga_b2": {
+    "periodo": {
+      "inicio": "Thu Oct 01 2026 00:00:00 GMT-0300 (hora de verano de Chile)",
+      "fin": "Sat Oct 31 2026 00:00:00 GMT-0300 (hora de verano de Chile)",
+      "label": "Octubre"
+    },
+    "tabla": [
+      {
+        "rank": 1,
+        "jugador": "Tomás Guzmán",
+        "pts": 30,
+        "eventos": 3,
+        "mejor_pos": 2
+      },
+      {
+        "rank": 2,
+        "jugador": "Joaquín Cantero",
+        "pts": 28,
+        "eventos": 3,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 3,
+        "jugador": "Ignacio Saavedra",
+        "pts": 18,
+        "eventos": 2,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 4,
+        "jugador": "David Calisto",
+        "pts": 17,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 5,
+        "jugador": "Jesus Rodriguez",
+        "pts": 16,
+        "eventos": 2,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 6,
+        "jugador": "Andrés Ramírez",
+        "pts": 13,
+        "eventos": 2,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 7,
+        "jugador": "Alex Schultes",
+        "pts": 10,
+        "eventos": 1,
+        "mejor_pos": 1
+      },
+      {
+        "rank": 8,
+        "jugador": "Joaquín Saco",
+        "pts": 9,
+        "eventos": 1,
+        "mejor_pos": 3
+      },
+      {
+        "rank": 9,
+        "jugador": "Andrés Rodríguez",
+        "pts": 9,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 10,
+        "jugador": "Nicolás Colignon",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 5
+      },
+      {
+        "rank": 11,
+        "jugador": "Rodrigo Miranda",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 7
+      },
+      {
+        "rank": 12,
+        "jugador": "Nicolás Acuña",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 8
+      },
+      {
+        "rank": 13,
+        "jugador": "Fernando Yañez",
+        "pts": 7,
+        "eventos": 1,
+        "mejor_pos": 9
+      },
+      {
+        "rank": 14,
+        "jugador": "Simon Saldivia",
+        "pts": 5,
+        "eventos": 1,
+        "mejor_pos": 8
+      }
+    ]
+  },
+  "resultados": [
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-999",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-26T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 10,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-999",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-26T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 10,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-999",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-26T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "David Calisto",
+      "pts_topdeck": 8,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-999",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-26T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 7,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Aldana Vallejos",
+      "pts_topdeck": 1,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Matías Tófalos",
+      "pts_topdeck": 1,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Jonathan Herrera",
+      "pts_topdeck": 1,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Diego Parra",
+      "pts_topdeck": 1,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Annie Vergara",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Nicolás Saavedra",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Ignacio Rojas",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "TORNEO UNIVERSITARIO",
+      "torneo_slug": "torneo-universitario-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-10-21T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Alejandra Suárez",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Alex Schultez",
+      "pts_topdeck": 10,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 10,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Jesus Rodriguez",
+      "pts_topdeck": 9,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "David Calisto",
+      "pts_topdeck": 9,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Andres Rodriguez",
+      "pts_topdeck": 9,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 8,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Andrés Ramirez Gonzalez",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-19T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Simon Saldivia",
+      "pts_topdeck": 5,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Andrés Rodriguez",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Ignacio Maldonado",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 5,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Manuel Méndez",
+      "pts_topdeck": 5,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Francisca Araus",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Ignacio Ramirez",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 10,
+      "jugador": "David Silva",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-973",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-10-06T03:00:00.000Z",
+      "rank": 11,
+      "jugador": "Octavio Silva",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 13,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 10,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquín Saco",
+      "pts_topdeck": 9,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 8,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Nicolás Colignon",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Jesus Rodriguez",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Rodrigo Miranda",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Nicolás Acuña",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 9,
+      "jugador": "Fernando Yañez",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-10-05T03:00:00.000Z",
+      "rank": 10,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Diego Pradenas",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Francisco Colipi",
+      "pts_topdeck": 4,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Raul Torreblanca",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Christopher Cortez",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Tomas Guzman",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-113",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-10-01T03:00:00.000Z",
+      "rank": 9,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Ignacio Maldonado",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Alejandro Cuevas",
+      "pts_topdeck": 3,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Andrés Rodriguez",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "David Silva",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-897",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-29T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Ignacio Ramirez",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 12,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 12,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 10,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 10,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 9,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "David Calisto",
+      "pts_topdeck": 9,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 8,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-28T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 10,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquín cantero",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Cristóbal Casassus",
+      "pts_topdeck": 5,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Octavio Silva",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Francisco Colipi",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Oscar Donoso",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-271",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-24T03:00:00.000Z",
+      "rank": 9,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Andrés Rodriguez",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Manuel Mendez",
+      "pts_topdeck": 3,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "David Silva",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-136",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-22T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Matteo De Solminiac",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-3",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-21T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "David Calisto",
+      "pts_topdeck": 11,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-3",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-21T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 10,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-3",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-21T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 8,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-3",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-21T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 8,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "TRIBAL WARS",
+      "torneo_slug": "tribal-wars",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-17T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 12,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "TRIBAL WARS",
+      "torneo_slug": "tribal-wars",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-17T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Italo Rojas",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "TRIBAL WARS",
+      "torneo_slug": "tribal-wars",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-17T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 4,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "TRIBAL WARS",
+      "torneo_slug": "tribal-wars",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-17T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Andrés Rodriguez",
+      "pts_topdeck": 4,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "TRIBAL WARS",
+      "torneo_slug": "tribal-wars",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-17T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-282",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-15T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Andrés Rodríguez",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-282",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-15T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 2,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-282",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-15T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Alejandro de la Fuente",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-282",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-15T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "David Calisto",
+      "pts_topdeck": 12,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 12,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Andrés Cantuarias",
+      "pts_topdeck": 11,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 9,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Cristóbal Treupil",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Sebastián Pacheco",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Javier Gonzalez",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-14T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Pedro Vargas",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Agustin Pavez",
+      "pts_topdeck": 8,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Maximiliano Aguilera",
+      "pts_topdeck": 8,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Jean Larenas",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Peter Salinas",
+      "pts_topdeck": 5,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Francisca Araus",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 9,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-343",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-10T03:00:00.000Z",
+      "rank": 10,
+      "jugador": "Ignacio Herrera",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-185",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-08T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-185",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-08T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Andrés Rodriguez",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-185",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-08T03:00:00.000Z",
+      "rank": 4,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 3,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-185",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-08T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Octavio Silva",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-185",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-08T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Oscar Donoso",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 1,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 13,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 2,
+      "jugador": "Bruno Palma",
+      "pts_topdeck": 12,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 11,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 5,
+      "jugador": "Sebastian Sanchez",
+      "pts_topdeck": 10,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 6,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 9,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 7,
+      "jugador": "Eduardo Mena",
+      "pts_topdeck": 9,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 8,
+      "jugador": "Ignacio Saavedera",
+      "pts_topdeck": 8,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 9,
+      "jugador": "David Calisto",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 2 & Chill",
+      "torneo_slug": "bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-09-07T03:00:00.000Z",
+      "rank": 10,
+      "jugador": "Andres Ramirez",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Remy",
+      "pts_topdeck": 1,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Joaquin",
+      "pts_topdeck": 1,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 1,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Tokmy",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Kyzo",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Cris",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "GAMEQUEST CASUALES",
+      "torneo_slug": "gamequest-casuales",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-09-04T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Nico",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Torneo Precon GQ",
+      "torneo_slug": "torneo-precon-gq",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-03T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Don Matias Salgado",
+      "pts_topdeck": 12,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Torneo Precon GQ",
+      "torneo_slug": "torneo-precon-gq",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-03T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Torneo Precon GQ",
+      "torneo_slug": "torneo-precon-gq",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-03T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Oscar Donoso",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Torneo Precon GQ",
+      "torneo_slug": "torneo-precon-gq",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-03T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Torneo Precon GQ",
+      "torneo_slug": "torneo-precon-gq",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-09-03T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-534",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-01T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-534",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-01T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 8,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-534",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-01T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-534",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-01T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Octavio Silva",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-534",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-01T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Bruno Palma",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-534",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-09-01T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "David Silva",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 1,
+      "jugador": "David Calisto",
+      "pts_topdeck": 13,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 2,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 11,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 3,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 11,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 4,
+      "jugador": "Sebastián Pacheco",
+      "pts_topdeck": 9,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 8,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 6,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 7,
+      "jugador": "Cristobal Trupil",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-960",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "31 ago 2026",
+      "rank": 8,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-6",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "27 ago 2026",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-6",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "27 ago 2026",
+      "rank": 2,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-6",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "27 ago 2026",
+      "rank": 3,
+      "jugador": "Nicolas Rademacher",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-6",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "27 ago 2026",
+      "rank": 4,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 4,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-6",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "27 ago 2026",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-6",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "27 ago 2026",
+      "rank": 6,
+      "jugador": "Oscar Donoso",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-943",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "25 ago 2026",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-943",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "25 ago 2026",
+      "rank": 2,
+      "jugador": "Eduardo Mena",
+      "pts_topdeck": 2,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-943",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "25 ago 2026",
+      "rank": 3,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 1,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-131",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "24 ago 2026",
+      "rank": 1,
+      "jugador": "David Calisto",
+      "pts_topdeck": 11,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-131",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "24 ago 2026",
+      "rank": 2,
+      "jugador": "Francisca Araus",
+      "pts_topdeck": 7,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-131",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "24 ago 2026",
+      "rank": 3,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 6,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-131",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "24 ago 2026",
+      "rank": 6,
+      "jugador": "Javiera Ibañez",
+      "pts_topdeck": 5,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-131",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "24 ago 2026",
+      "rank": 7,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-131",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "24 ago 2026",
+      "rank": 8,
+      "jugador": "Alex Inzunza",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 1,
+      "jugador": "Oscar Donoso",
+      "pts_topdeck": 7,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 2,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 3,
+      "jugador": "Andrew Starr",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 4,
+      "jugador": "Raúl Torreblanca",
+      "pts_topdeck": 5,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 5,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 5,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 6,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 7,
+      "jugador": "David Calisto",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 8,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 9,
+      "jugador": "Matias Mocanu",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 10,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 11,
+      "jugador": "Nicolás Colignon",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-5",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "20 ago 2026",
+      "rank": 12,
+      "jugador": "Francisca Araus",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-410",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "18 ago 2026",
+      "rank": 1,
+      "jugador": "Manuel Mendez",
+      "pts_topdeck": 8,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-410",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "18 ago 2026",
+      "rank": 2,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-410",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "18 ago 2026",
+      "rank": 3,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-410",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "18 ago 2026",
+      "rank": 4,
+      "jugador": "Jorge Aguirre",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-410",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "18 ago 2026",
+      "rank": 5,
+      "jugador": "David Silva",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "17 ago 2026",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 12,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "17 ago 2026",
+      "rank": 2,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 8,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "17 ago 2026",
+      "rank": 4,
+      "jugador": "David Calisto",
+      "pts_topdeck": 6,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "17 ago 2026",
+      "rank": 6,
+      "jugador": "Francisca Araus",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "17 ago 2026",
+      "rank": 7,
+      "jugador": "Javiera Ibañez",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PLANESCHASE PRECON",
+      "torneo_slug": "planeschase-precon",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "14 ago 2026",
+      "rank": 2,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PLANESCHASE PRECON",
+      "torneo_slug": "planeschase-precon",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "14 ago 2026",
+      "rank": 3,
+      "jugador": "Nicolás Colignon",
+      "pts_topdeck": 4,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PLANESCHASE PRECON",
+      "torneo_slug": "planeschase-precon",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "14 ago 2026",
+      "rank": 4,
+      "jugador": "Francisca Araus",
+      "pts_topdeck": 3,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PLANESCHASE PRECON",
+      "torneo_slug": "planeschase-precon",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "14 ago 2026",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PLANESCHASE PRECON",
+      "torneo_slug": "planeschase-precon",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "14 ago 2026",
+      "rank": 6,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-4",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "13 ago 2026",
+      "rank": 2,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-4",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "13 ago 2026",
+      "rank": 3,
+      "jugador": "Oscar Donoso",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-4",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "13 ago 2026",
+      "rank": 4,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-4",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "13 ago 2026",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-4",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "13 ago 2026",
+      "rank": 6,
+      "jugador": "Andrew Starr",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-4",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "13 ago 2026",
+      "rank": 7,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-795",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "11 ago 2026",
+      "rank": 1,
+      "jugador": "David Silva",
+      "pts_topdeck": 4,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-795",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "11 ago 2026",
+      "rank": 2,
+      "jugador": "Juan Carlos Bodoque",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-795",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "11 ago 2026",
+      "rank": 3,
+      "jugador": "Javiera Ibañez",
+      "pts_topdeck": 4,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-795",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "11 ago 2026",
+      "rank": 4,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 0,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 1,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 10,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 2,
+      "jugador": "Nicolás Colignon",
+      "pts_topdeck": 9,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 3,
+      "jugador": "Alex Inzunza",
+      "pts_topdeck": 9,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 4,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 9,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 5,
+      "jugador": "Marco Camargo",
+      "pts_topdeck": 9,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 6,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 8,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 7,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 8,
+      "jugador": "Aldo González",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 9,
+      "jugador": "David Calisto",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-5",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "10 ago 2026",
+      "rank": 10,
+      "jugador": "Benjamín Opazo",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-3",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "6 ago 2026",
+      "rank": 1,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-3",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "6 ago 2026",
+      "rank": 2,
+      "jugador": "Jean Poul Larenas",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-3",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "6 ago 2026",
+      "rank": 4,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 3,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-3",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "6 ago 2026",
+      "rank": 5,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-3",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "6 ago 2026",
+      "rank": 7,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-664",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "4 ago 2026",
+      "rank": 1,
+      "jugador": "Maycol Bravo",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-664",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "4 ago 2026",
+      "rank": 2,
+      "jugador": "Manuel Mendez",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-664",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "4 ago 2026",
+      "rank": 4,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-664",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "4 ago 2026",
+      "rank": 5,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-664",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "4 ago 2026",
+      "rank": 6,
+      "jugador": "David Silva",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-664",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "4 ago 2026",
+      "rank": 7,
+      "jugador": "Jorge Aguirre",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 1,
+      "jugador": "Marco Camargo",
+      "pts_topdeck": 8,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 2,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 8,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 3,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 7,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 4,
+      "jugador": "Aldo Gonzalez",
+      "pts_topdeck": 7,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 5,
+      "jugador": "David Calisto",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 6,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 7,
+      "jugador": "Nicolás Colignon",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-4",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "3 ago 2026",
+      "rank": 8,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 5,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes",
+      "torneo_slug": "jumpstart-marvel-super-heroes-3",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-07-31T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes",
+      "torneo_slug": "jumpstart-marvel-super-heroes-3",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-07-31T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Emilio Gonzalez",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes",
+      "torneo_slug": "jumpstart-marvel-super-heroes-3",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-07-31T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 4,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes",
+      "torneo_slug": "jumpstart-marvel-super-heroes-3",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-07-31T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Eduardo Mena",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes",
+      "torneo_slug": "jumpstart-marvel-super-heroes-3",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-07-31T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Juan Francisco Guzman",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-30T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Raúl Torrealba",
+      "pts_topdeck": 5,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-30T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-30T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Jukin",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-30T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 1,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-30T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Reptinoide",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-6",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-28T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Manuel Mendez",
+      "pts_topdeck": 8,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-6",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-28T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 0,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-6",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-28T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Guido Bascur",
+      "pts_topdeck": 0,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Aldo Gonzalez",
+      "pts_topdeck": 8,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "David Calisto",
+      "pts_topdeck": 8,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Sebastián Sanchez",
+      "pts_topdeck": 8,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Freddy Fuentes",
+      "pts_topdeck": 8,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Claudio Morales",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 27 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-27-julio-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-27T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Andres Ramirez",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-1",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-23T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Matías Salgado",
+      "pts_topdeck": 4,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-1",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-23T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 1,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-1",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-23T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Francisco Otarola",
+      "pts_topdeck": 1,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown-1",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-23T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Mario Barrios",
+      "pts_topdeck": 1,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 4,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "John Chaves",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Guido Bascur",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Manuel Méndez",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-5",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-21T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "David Silva",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Aldo Gonzalez",
+      "pts_topdeck": 8,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 8,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 8,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Freddy Fuentes",
+      "pts_topdeck": 7,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "David Calisto",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Maykol Ramirez",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 20 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-20-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-20T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Torneo Precon / B2",
+      "torneo_slug": "torneo-precon-b2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-16T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 7,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Torneo Precon / B2",
+      "torneo_slug": "torneo-precon-b2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-16T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Italo Rojas",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Torneo Precon / B2",
+      "torneo_slug": "torneo-precon-b2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-16T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 0,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Torneo Precon / B2",
+      "torneo_slug": "torneo-precon-b2",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-16T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Vicente Aguilera",
+      "pts_topdeck": 0,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-4",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-14T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-4",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-14T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Emilio Noguera",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-4",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-14T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 1,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-4",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-14T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-4",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-14T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "David Silva",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-4",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-14T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Pancho",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "David Calisto",
+      "pts_topdeck": 11,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Aldo González",
+      "pts_topdeck": 11,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 10,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Panchitow",
+      "pts_topdeck": 8,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Freddy Fuentes",
+      "pts_topdeck": 8,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Vicente Carmi",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Alex Schultes",
+      "pts_topdeck": 5,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 9,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 13 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-13-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-13T04:00:00.000Z",
+      "rank": 10,
+      "jugador": "Maikol Ramirez",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Matias Salgado",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 3,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 3,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Diego Aravena",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "María Eliana Torres",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "PRECON SMACKDOWN",
+      "torneo_slug": "precon-smackdown",
+      "torneo_tipo": "Precon",
+      "torneo_fecha": "2026-07-09T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Raul Torreblanca",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-3",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-07T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-3",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-07T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 2,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-3",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-07T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-3",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-07T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "David Silva",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-3",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-07T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Remy Marambio",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-3",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-07-07T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Agustin Sepulveda",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Aldo Gonzalez",
+      "pts_topdeck": 11,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Freddy Fuente",
+      "pts_topdeck": 10,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 9,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "David Calisto",
+      "pts_topdeck": 8,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Joseph Lamartine",
+      "pts_topdeck": 7,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Marco Camargo",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 6,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 9,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 10,
+      "jugador": "Claudio Morales",
+      "pts_topdeck": 4,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 11,
+      "jugador": "Javier Gonzalez",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill 6 JULIO",
+      "torneo_slug": "liga-semanal-bracket-2-chill-6-julio",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-07-06T04:00:00.000Z",
+      "rank": 12,
+      "jugador": "Juan Francisco Guzman",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-2",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-30T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 5,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-2",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-30T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Manuel Méndez",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-2",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-30T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 4,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Erick Farfán",
+      "pts_topdeck": 2,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Pedro Solano",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Aldo Gonzalez",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Valentina Soto",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Vicente Carmi",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "David Calisto",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 9,
+      "jugador": "Fernando Molina",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 10,
+      "jugador": "Javier Gonzalez",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 11,
+      "jugador": "Bastian Paredes",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-29T04:00:00.000Z",
+      "rank": 12,
+      "jugador": "Andrés Ramirez",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Felipe Concha",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Jorge Aguirre",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Miguel Angel Nuñez",
+      "pts_topdeck": 6,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Alfonso Aguilar",
+      "pts_topdeck": 6,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Joaquin Francis",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Nicolás Morales Macaya",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Francisca Garcia",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash II",
+      "torneo_slug": "pauper-super-clash-ii",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-28T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Carlos Retamal",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Tomás Ibañez",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Eduardo Mena",
+      "pts_topdeck": 6,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 6,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Cristián Olguín",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Jumpstart Marvel Super Heroes 2",
+      "torneo_slug": "jumpstart-marvel-super-heroes-2",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-06-26T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Bruno Palma",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-1",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-23T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Manuel Mendez",
+      "pts_topdeck": 9,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-1",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-23T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-1",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-23T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Emilio Silva",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-1",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-23T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "David Silva",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-1",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-23T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Jorge Aguirre",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown-1",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-23T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-22T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Erick Farfán",
+      "pts_topdeck": 7,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-22T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Claudio Morales",
+      "pts_topdeck": 1,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-22T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 0,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-2",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-22T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "David Calisto",
+      "pts_topdeck": 0,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-16T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 5,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-16T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Manuel Méndez",
+      "pts_topdeck": 5,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-16T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Tomás Ibañez",
+      "pts_topdeck": 5,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-16T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Jorge Aguirre",
+      "pts_topdeck": 5,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-16T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown",
+      "torneo_slug": "bracket-3-showdown",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-16T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Remy Marambio",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Erick Farfan",
+      "pts_topdeck": 2,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Nicolás Rosas",
+      "pts_topdeck": 2,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "David Calisto",
+      "pts_topdeck": 2,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Tomás Guzman",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Jaime Mercado",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Semanal Bracket 2 & Chill",
+      "torneo_slug": "liga-semanal-bracket-2-chill-1",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-15T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Marcelo Montecinos",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown QC",
+      "torneo_slug": "bracket-3-showdown-qc",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-09T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Mateo De Solminihac",
+      "pts_topdeck": 15,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown QC",
+      "torneo_slug": "bracket-3-showdown-qc",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-09T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Alejandro Canales",
+      "pts_topdeck": 10,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown QC",
+      "torneo_slug": "bracket-3-showdown-qc",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-09T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Joaquín Cantero",
+      "pts_topdeck": 10,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown QC",
+      "torneo_slug": "bracket-3-showdown-qc",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-09T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Tomás Guzmán",
+      "pts_topdeck": 1,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown QC",
+      "torneo_slug": "bracket-3-showdown-qc",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-09T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Tomás Jefecito",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Bracket 3 Showdown QC",
+      "torneo_slug": "bracket-3-showdown-qc",
+      "torneo_tipo": "B3",
+      "torneo_fecha": "2026-06-09T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Fabián Soto",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Marco Camargo",
+      "pts_topdeck": 6,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Diego Vegas",
+      "pts_topdeck": 4,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Erick Farfan",
+      "pts_topdeck": 4,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Joaquin Cantero",
+      "pts_topdeck": 3,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Jose Gonzalez",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "David Calisto",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Ignacio Saavedra",
+      "pts_topdeck": 1,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Jorge Escobar",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 9,
+      "jugador": "Alex Inzunza",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Liga Bracket 2 & Chill",
+      "torneo_slug": "liga-bracket-2-chill",
+      "torneo_tipo": "B2",
+      "torneo_fecha": "2026-06-08T04:00:00.000Z",
+      "rank": 10,
+      "jugador": "Gloria Bravo",
+      "pts_topdeck": 0,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 1,
+      "jugador": "Jorge Aguirre",
+      "pts_topdeck": 4,
+      "pts_general": 50
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 2,
+      "jugador": "Carlos Retamal",
+      "pts_topdeck": 6,
+      "pts_general": 35
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 3,
+      "jugador": "Felipe Concha",
+      "pts_topdeck": 9,
+      "pts_general": 25
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 4,
+      "jugador": "Claudio Celis",
+      "pts_topdeck": 6,
+      "pts_general": 15
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 5,
+      "jugador": "Miguelñ Nuñez",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 6,
+      "jugador": "Rolando Soto",
+      "pts_topdeck": 3,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 7,
+      "jugador": "Carlos Ojeda",
+      "pts_topdeck": 2,
+      "pts_general": 5
+    },
+    {
+      "torneo_nombre": "Pauper Super Clash GQ",
+      "torneo_slug": "pauper-super-clash-gq",
+      "torneo_tipo": "Unico",
+      "torneo_fecha": "2026-05-24T04:00:00.000Z",
+      "rank": 8,
+      "jugador": "Mauricio Quezada",
+      "pts_topdeck": 1,
+      "pts_general": 5
     }
   ]
 }
