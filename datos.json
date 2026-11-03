@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-03T00:59:08.859Z",
+  "generado": "2026-11-03T21:02:31.054Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1848,6 +1848,27 @@
       "año": 2026,
       "rondas": 2,
       "url_producto": "https://gamequest.cl/liga-semanal-bracket-2-chill-lunes-30-nov"
+    },
+    {
+      "id": "ev_1793739750505",
+      "nombre": "Casuales Commander GQ",
+      "tipo": "Commander Casuales",
+      "formato": "",
+      "fecha": "2026-11-05T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234754969/EDH_20CASUALES-03.png?1793666632",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234754969/EDH_20CASUALES-02.png?1793666632",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234754969,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/commander-casual-game-quest"
     }
   ],
   "rankings": {
