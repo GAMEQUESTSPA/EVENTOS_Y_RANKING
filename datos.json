@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T14:20:23.318Z",
+  "generado": "2026-11-04T14:20:37.974Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1914,6 +1914,27 @@
     },
     {
       "id": "ev_1793802021080",
+      "nombre": "Escuelita Magic Noviembre",
+      "tipo": "Evento Especial",
+      "formato": "",
+      "fecha": "2026-11-19T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T23:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234841563/ESCUELITA_20DE_20MAGIC.png?1793801947",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234841563/ESCUELITA_20DE_20MAGIC-03.png?1793801947",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234841563,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/escuelita-magic-gratuita-29-jul-copia"
+    },
+    {
+      "id": "ev_1793802037808",
       "nombre": "Escuelita Magic Noviembre",
       "tipo": "Evento Especial",
       "formato": "",
