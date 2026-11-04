@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T14:47:34.126Z",
+  "generado": "2026-11-04T16:27:30.953Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -2037,6 +2037,27 @@
       "año": 2026,
       "rondas": "",
       "url_producto": "https://gamequest.cl/commander-casual-game-quest"
+    },
+    {
+      "id": "ev_1793809650808",
+      "nombre": "Roleplay: Pathfinder 2E – Cazando a Colmilloblanco",
+      "tipo": "Evento Especial",
+      "formato": "",
+      "fecha": "2026-11-18T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234848381/18_20NOV_ROLEPLAY_202.png?1793808996",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234848381/18_20NOV-06.png?1793808996",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234848381,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/roleplay-pathfinder-2e-cazando-a-colmilloblanco-18-nov"
     }
   ],
   "rankings": {
