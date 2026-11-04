@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-03T21:04:13.623Z",
+  "generado": "2026-11-04T14:09:44.464Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1857,7 +1857,7 @@
       "fecha": "2026-11-05T03:00:00.000Z",
       "hora_inicio": "1899-12-30T22:42:45.000Z",
       "hora_fin": "1899-12-31T02:42:45.000Z",
-      "precio": "",
+      "precio": 0,
       "cupos_total": "",
       "cupos_disponibles": "",
       "descripcion": "",
@@ -1878,7 +1878,7 @@
       "fecha": "2026-11-12T03:00:00.000Z",
       "hora_inicio": "1899-12-30T22:42:45.000Z",
       "hora_fin": "1899-12-31T02:42:45.000Z",
-      "precio": "",
+      "precio": 0,
       "cupos_total": "",
       "cupos_disponibles": "",
       "descripcion": "",
@@ -1890,6 +1890,27 @@
       "año": 2026,
       "rondas": "",
       "url_producto": "https://gamequest.cl/commander-casual-game-quest"
+    },
+    {
+      "id": "ev_1793801383108",
+      "nombre": "Torneo GameQuest Super Showdown (20 Nov)",
+      "tipo": "Evento Especial",
+      "formato": "",
+      "fecha": "2026-11-20T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234787863/TORNEO_20UNICO_20HOUSE_20RULES_IG_20GENERAL_20POST.png?1793801343",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234787863/TORNEO_20UNICO_20HOUSE_20RULES-03.png?1793801343",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234787863,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/torneo-bracket-3-super-showdown-20-nov"
     }
   ],
   "rankings": {
