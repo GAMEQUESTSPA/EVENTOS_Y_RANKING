@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T14:45:16.556Z",
+  "generado": "2026-11-04T14:47:34.126Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -2016,6 +2016,27 @@
       "año": 2026,
       "rondas": "",
       "url_producto": "https://gamequest.cl/evento-precon-planechase-14-ago-copia"
+    },
+    {
+      "id": "ev_1793803653970",
+      "nombre": "Casuales Commander GQ",
+      "tipo": "Commander Casuales",
+      "formato": "",
+      "fecha": "2026-11-06T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:12:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234754969/EDH_20CASUALES-03.png?1793666632",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234754969/EDH_20CASUALES-02.png?1793666632",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234754969,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/commander-casual-game-quest"
     }
   ],
   "rankings": {
