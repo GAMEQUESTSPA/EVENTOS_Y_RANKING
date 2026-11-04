@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T14:20:37.974Z",
+  "generado": "2026-11-04T14:20:49.135Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -1947,7 +1947,7 @@
       "descripcion": "",
       "imagen_url": "https://images.jumpseller.com/store/game-quest/1234841563/ESCUELITA_20DE_20MAGIC.png?1793801947",
       "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234841563/ESCUELITA_20DE_20MAGIC-03.png?1793801947",
-      "estado": "abierto",
+      "estado": "cerrado",
       "producto_jumpseller_id": 1234841563,
       "temporada": "Q2-2026",
       "año": 2026,
