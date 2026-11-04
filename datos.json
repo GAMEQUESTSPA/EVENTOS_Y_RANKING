@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T16:28:25.510Z",
+  "generado": "2026-11-04T16:29:14.378Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -2079,6 +2079,27 @@
       "año": 2026,
       "rondas": "",
       "url_producto": "https://gamequest.cl/roleplay-dungeons-dragons-ecos-sepulcrales-18-nov"
+    },
+    {
+      "id": "ev_1793809754185",
+      "nombre": "Roleplay: D&D 2024 5ta Edición – Fuego, Oro y Sangre",
+      "tipo": "Evento Especial",
+      "formato": "",
+      "fecha": "2026-11-27T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234848753/27_20NOV_ROLEPLAY_202.png?1793809613",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234848753/27_20NOV-03.png?1793809613",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234848753,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/roleplay-dd-2024-5e-fuego-oro-y-sangre-18-nov"
     }
   ],
   "rankings": {
