@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T16:27:30.953Z",
+  "generado": "2026-11-04T16:28:25.510Z",
   "eventos": [
     {
       "id": "EVT_1777251242456_69tlp",
@@ -2058,6 +2058,27 @@
       "año": 2026,
       "rondas": "",
       "url_producto": "https://gamequest.cl/roleplay-pathfinder-2e-cazando-a-colmilloblanco-18-nov"
+    },
+    {
+      "id": "ev_1793809705152",
+      "nombre": "Roleplay: D&D 2024 5ta Edición – Ecos Sepulcrales",
+      "tipo": "Evento Especial",
+      "formato": "",
+      "fecha": "2026-11-18T03:00:00.000Z",
+      "hora_inicio": "1899-12-30T22:42:45.000Z",
+      "hora_fin": "1899-12-31T02:42:45.000Z",
+      "precio": "",
+      "cupos_total": "",
+      "cupos_disponibles": "",
+      "descripcion": "",
+      "imagen_url": "https://images.jumpseller.com/store/game-quest/1234848712/18_20NOV_ROLEPLAY_203.png?1793809232",
+      "imagen_url_horizontal": "https://images.jumpseller.com/store/game-quest/1234848712/18_20NOV-07.png?1793809232",
+      "estado": "abierto",
+      "producto_jumpseller_id": 1234848712,
+      "temporada": "Q2-2026",
+      "año": 2026,
+      "rondas": "",
+      "url_producto": "https://gamequest.cl/roleplay-dungeons-dragons-ecos-sepulcrales-18-nov"
     }
   ],
   "rankings": {
